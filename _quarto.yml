@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Matthew Delgado"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: marketing-analytics.qmd
+        text: Marketing Analytics
+      - href: digital-marketing.qmd
+        text: Digital Marketing
+      - href: resume.qmd
+        text: Resume
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.scss
+    css: styles.scss
+    toc: true
+    number-sections: true

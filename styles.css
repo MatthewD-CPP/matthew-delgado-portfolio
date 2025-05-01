@@ -1,0 +1,20 @@
+/* css styles */
+/* Custom SCSS theme for a professional Quarto website */
+
+$primary: #003366; // Deep navy blue
+$secondary: #e6f2ff; // Pale blue
+$body-bg: #ffffff;
+$body-color: #1a1a1a;
+$link-color: $primary;
+
+$font-family-base: "Segoe UI", Roboto, Helvetica, sans-serif;
+$font-size-base: 1rem;
+$line-height-base: 1.6;
+$border-radius: 0.5rem;
+
+.navbar {
+  background-color: $primary;
+  a {
+    color: white !important;
+  }
+}

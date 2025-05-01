@@ -1,0 +1,9 @@
+---
+title: "marketing-analytics"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
