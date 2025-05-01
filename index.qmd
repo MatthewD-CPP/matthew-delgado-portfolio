@@ -9,10 +9,10 @@ format: html
 
 I'm a digital marketing student passionate about blending creativity with data to build brands, drive engagement, and solve real-world business problems.
 
-Currently studying at **Cal Poly Pomona**, I'm developing skills in:
-- Social media strategy & content creation
-- Data analytics using R & Excel
-- Email marketing, SEO, and campaign management
+Currently studying at **Cal Poly Pomona**, I'm developing skills in:  
+- Social media strategy & content creation  
+- Data analytics using R & Excel  
+- Email marketing, SEO, and campaign management  
 
 I’m actively seeking opportunities to apply my knowledge in digital marketing, brand development, and marketing analytics. If you're looking for someone with a mix of analytical insight and creative energy—I’d love to connect.
 
