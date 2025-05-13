@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "YOUR NAME"
+  title: "Matthew Delgado"
   navbar:
     left:
       - text: "Home"
         href: index.qmd
       - text: "Marketing Analytics"
-        href: marketing-analytics.qmd
+        href: digital-marketing.qmd
       - text: "Strategic Marketing"
         href: strategic-marketing.qmd
       - text: "Résumé"
