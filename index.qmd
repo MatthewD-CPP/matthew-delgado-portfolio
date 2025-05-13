@@ -1,27 +1,27 @@
 ---
-title: "Welcome"
-format: html
+title: "Hi, I'm [Your Name Here]"
 ---
 
-# Hi, I'm Matthew Delgado 👋
 
-<img src="images/headshot.jpg" alt="Headshot of me" width="150" style="border-radius: 50%; display: block; margin-bottom: 1em;"> 
+::: {.columns}
+::: {.column width="30%"}
+![](https://placehold.co/530x530?text=images/headshot.jpg){width=100% style="border-radius: 50%;"}
+:::
+::: {.column width="70%" style="padding-left: 3rem;"}
+I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+:::
+:::
 
-I'm a digital marketing student passionate about blending creativity with data to build brands, drive engagement, and solve real-world business problems.
+## About Me
 
-Currently studying at **Cal Poly Pomona**, I'm developing skills in:  
-- Social media strategy & content creation  
-- Data analytics using R & Excel  
-- Email marketing, SEO, and campaign management  
+I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
 
-I’m actively seeking opportunities to apply my knowledge in digital marketing, brand development, and marketing analytics. If you're looking for someone with a mix of analytical insight and creative energy—I’d love to connect.
+
+
+## Let's Connect
+
+You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
 
 ---
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/matthew-delgado-a6b80924a/)
-- [Email Me](mailto:matthewd1@cpp.edu)
-- [GitHub](https://github.com/MatthewD-CPP)
-- [Resume](/resume.pdf)
-
+*Welcome to my portfolio.*

@@ -2,22 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "Hi, I’m [Your Name Here]",
     "section": "",
-    "text": "I’m a digital marketing student passionate about blending creativity with data to build brands, drive engagement, and solve real-world business problems.\nCurrently studying at Cal Poly Pomona, I’m developing skills in: - Social media strategy & content creation - Data analytics using R & Excel - Email marketing, SEO, and campaign management\nI’m actively seeking opportunities to apply my knowledge in digital marketing, brand development, and marketing analytics. If you’re looking for someone with a mix of analytical insight and creative energy—I’d love to connect.\n\n\n\n\nLinkedIn\nEmail Me\nGitHub\nResume"
+    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
   },
   {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "marketing-analytics",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "About Me",
+    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
   },
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
-    "title": "Welcome",
-    "section": "",
-    "text": "LinkedIn\nEmail Me\nGitHub\nResume"
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
   }
 ]
