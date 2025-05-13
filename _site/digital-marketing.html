@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Marketing Analytics – Matthew Delgado</title>
+<title>Strategic Marketing – Matthew Delgado</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -40,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4600c6a418132aef50fcd01161fdaa20.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-70c695778b86f679088d98489410e4f5.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,65 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 </head>
 
@@ -152,12 +92,12 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./digital-marketing.html" aria-current="page"> 
+    <a class="nav-link" href="./marketing-analytics.html"> 
 <span class="menu-text">Marketing Analytics</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./strategic-marketing.html"> 
-<span class="menu-text">Strategic Marketing</span></a>
+    <a class="nav-link active" href="./digital-marketing.html" aria-current="page"> 
+<span class="menu-text">Digital Marketing</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./resume.html"> 
@@ -179,16 +119,20 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-youll-find" id="toc-what-youll-find" class="nav-link active" data-scroll-target="#what-youll-find">What You’ll Find</a></li>
+  <li><a href="#meta-ads-campaign-optimization" id="toc-meta-ads-campaign-optimization" class="nav-link active" data-scroll-target="#meta-ads-campaign-optimization">Meta Ads Campaign Optimization</a></li>
+  <li><a href="#buhi-social-media-simternship" id="toc-buhi-social-media-simternship" class="nav-link" data-scroll-target="#buhi-social-media-simternship">Buhi Social Media Simternship</a></li>
+  <li><a href="#messenger-campaign-for-jill-mimic-pro" id="toc-messenger-campaign-for-jill-mimic-pro" class="nav-link" data-scroll-target="#messenger-campaign-for-jill-mimic-pro">Messenger Campaign for Jill (Mimic Pro)</a></li>
+  <li><a href="#seo-brand-positioning-comparison-report" id="toc-seo-brand-positioning-comparison-report" class="nav-link" data-scroll-target="#seo-brand-positioning-comparison-report">SEO &amp; Brand Positioning Comparison Report</a></li>
+  <li><a href="#client-consultation-strategy-presentation" id="toc-client-consultation-strategy-presentation" class="nav-link" data-scroll-target="#client-consultation-strategy-presentation">Client Consultation &amp; Strategy Presentation</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="QW5hbHl0aWNz">Analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QW5hbHl0aWNzJTIwTW9kZWxpbmc=">Analytics Modeling <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXR0cmlidXRpb24=">Attribution <span class="quarto-category-count">(1)</span></div><div class="category" data-category="QXVkaWVuY2UlMjBBbmFseXNpcw==">Audience Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2FtcGFpZ24lMjBPcHRpbWl6YXRpb24=">Campaign Optimization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q2x1c3RlcmluZw==">Clustering <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29tcGV0aXRpdmUlMjBBbmFseXNpcw==">Competitive Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29udGVudCUyMFN0cmF0ZWd5">Content Strategy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q3VzdG9tZXIlMjBJbnNpZ2h0cw==">Customer Insights <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGFzaGJvYXJkaW5n">Dashboarding <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFNjaWVuY2U=">Data Science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGF0YSUyMFZpc3VhbGl6YXRpb24=">Data Visualization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RGlnaXRhbCUyMFN0cmF0ZWd5">Digital Strategy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RW5nYWdlbWVudCUyME1ldHJpY3M=">Engagement Metrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="S2V5d29yZCUyMFJlc2VhcmNo">Keyword Research <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFjaGluZSUyMExlYXJuaW5n">Machine Learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFya2V0aW5nJTIwQW5hbHl0aWNz">Marketing Analytics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFya2V0aW5nJTIwRnVubmVs">Marketing Funnel <span class="quarto-category-count">(1)</span></div><div class="category" data-category="TWFya2V0aW5nJTIwU3RyYXRlZ3k=">Marketing Strategy <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UGVyZm9ybWFuY2UlMjBNZXRyaWNz">Performance Metrics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U0VP">SEO <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VhcmNoJTIwUmFua2luZ3M=">Search Rankings <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U2VnbWVudGF0aW9u">Segmentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U29jaWFsJTIwTWVkaWE=">Social Media <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Marketing Analytics</h1>
+<h1 class="title">Strategic Marketing</h1>
 </div>
 
 
@@ -205,224 +149,73 @@ window.Quarto = {
 </header>
 
 
-<p>Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.</p>
-<p>Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.</p>
-<section id="what-youll-find" class="level2">
-<h2 class="anchored" data-anchor-id="what-youll-find">What You’ll Find</h2>
+<p>Below are selected projects that highlight my experience in campaign development, digital strategy, and brand communication. These examples showcase how I apply a blend of creativity and data-driven decision making to solve real-world marketing challenges.</p>
+<section id="meta-ads-campaign-optimization" class="level2">
+<h2 class="anchored" data-anchor-id="meta-ads-campaign-optimization">Meta Ads Campaign Optimization</h2>
+<p>As part of a simulated client experience, I led the optimization of paid ad campaigns using Meta Ads Manager. I tested targeting strategies, budget allocations, and creative variations to maximize engagement and return on ad spend.</p>
+<p><strong>Skills Demonstrated:</strong></p>
 <ul>
-<li><strong>Campaign Performance Analysis:</strong> Evaluating the effectiveness of digital marketing efforts using data.</li>
-<li><strong>Data Visualization:</strong> Turning raw datasets into intuitive dashboards and reports.</li>
-<li><strong>Marketing Mix &amp; Attribution:</strong> Exploring how different channels contribute to success.</li>
-<li><strong>Customer &amp; Market Insights:</strong> Using analytics to better understand user behavior and optimize experiences.</li>
+<li><strong>Audience Segmentation:</strong> Refined targeting using personas and engagement history.</li>
+<li><strong>A/B Testing:</strong> Compared creative and placement variations for performance.</li>
+<li><strong>Budget Strategy:</strong> Allocated daily spend to high-performing campaigns.</li>
+<li><strong>Performance Analysis:</strong> Interpreted real-time results to improve ROI.</li>
 </ul>
 <hr>
-
+</section>
+<section id="buhi-social-media-simternship" class="level2">
+<h2 class="anchored" data-anchor-id="buhi-social-media-simternship">Buhi Social Media Simternship</h2>
+<p>During a semester-long brand simulation, I managed social media strategy for Buhi Supply Co., aligning posts with product lines and seasonal promotions. I created original content for various platforms while tracking engagement and conversions.</p>
+<p><strong>Skills Demonstrated:</strong></p>
+<ul>
+<li><strong>Content Creation:</strong> Wrote platform-specific copy and designed creatives.</li>
+<li><strong>Persona-Based Messaging:</strong> Tailored posts to distinct audience profiles.</li>
+<li><strong>Engagement Tracking:</strong> Measured likes, shares, CTR, and conversions.</li>
+<li><strong>Cross-Platform Planning:</strong> Scheduled and adjusted posts based on trends.</li>
+</ul>
+<hr>
+</section>
+<section id="messenger-campaign-for-jill-mimic-pro" class="level2">
+<h2 class="anchored" data-anchor-id="messenger-campaign-for-jill-mimic-pro">Messenger Campaign for Jill (Mimic Pro)</h2>
+<p>This campaign focused on improving clickthrough rates for a Messenger-based ad strategy. I customized messaging for the “Jill” persona and adjusted the campaign setup to maximize results within budget constraints.</p>
+<p><strong>Skills Demonstrated:</strong></p>
+<ul>
+<li><strong>Persona-Driven Marketing:</strong> Designed content specifically for high-intent users.</li>
+<li><strong>Conversion Optimization:</strong> Used click and engagement data to refine copy.</li>
+<li><strong>Performance Metrics:</strong> Monitored CTR and cost-per-click over time.</li>
+<li><strong>Channel Adaptation:</strong> Adjusted campaign elements based on platform behavior.</li>
+</ul>
+<hr>
+</section>
+<section id="seo-brand-positioning-comparison-report" class="level2">
+<h2 class="anchored" data-anchor-id="seo-brand-positioning-comparison-report">SEO &amp; Brand Positioning Comparison Report</h2>
+<p>I conducted a side-by-side analysis of two competitive brands’ SEO strategies. This included keyword benchmarking, on-site optimization reviews, and SERP visibility. I used the findings to propose a clearer positioning strategy.</p>
+<p><strong>Skills Demonstrated:</strong></p>
+<ul>
+<li><strong>Competitive Benchmarking:</strong> Identified SEO strengths and gaps across competitors.</li>
+<li><strong>Strategic Positioning:</strong> Aligned keyword strategy with brand messaging.</li>
+<li><strong>On-Page SEO Review:</strong> Audited meta descriptions, headers, and content structure.</li>
+<li><strong>Report Communication:</strong> Summarized insights into a clear, actionable format.</li>
+</ul>
+<p>Below is an embedded demonstration of the interactive report:</p>
+<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;">
+</iframe>
+<hr>
+</section>
+<section id="client-consultation-strategy-presentation" class="level2">
+<h2 class="anchored" data-anchor-id="client-consultation-strategy-presentation">Client Consultation &amp; Strategy Presentation</h2>
+<p>In a consulting simulation, I worked with a mock client to audit their current marketing strategy and present a refined campaign plan. This included persona refinement, budget optimization, and media planning.</p>
+<p><strong>Skills Demonstrated:</strong></p>
+<ul>
+<li><strong>Marketing Audit:</strong> Evaluated current digital and social campaigns.</li>
+<li><strong>Strategic Recommendations:</strong> Suggested improvements based on data and benchmarks.</li>
+<li><strong>Presentation Design:</strong> Communicated findings in a polished, persuasive format.</li>
+<li><strong>Consulting Communication:</strong> Delivered insights tailored to stakeholder goals.</li>
+</ul>
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="U29jaWFsJTIwTWVkaWElMkNFbmdhZ2VtZW50JTIwTWV0cmljcyUyQ0NvbnRlbnQlMjBTdHJhdGVneSUyQ0F1ZGllbmNlJTIwQW5hbHlzaXMlMkNBbmFseXRpY3M=" data-listing-file-modified-sort="1747170471273" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
-<a href="./listings/05-social-media-engagement.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://placehold.co/600x400?text=Social+Media+Analysis" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Social Media Engagement Analysis
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U29jaWFsJTIwTWVkaWE='); return false;">
-Social Media
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RW5nYWdlbWVudCUyME1ldHJpY3M='); return false;">
-Engagement Metrics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q29udGVudCUyMFN0cmF0ZWd5'); return false;">
-Content Strategy
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QXVkaWVuY2UlMjBBbmFseXNpcw=='); return false;">
-Audience Analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QW5hbHl0aWNz'); return false;">
-Analytics
-</div>
-</div>
-<div class="card-text listing-description">
-This analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="QXR0cmlidXRpb24lMkNNYXJrZXRpbmclMjBGdW5uZWwlMkNDYW1wYWlnbiUyME9wdGltaXphdGlvbiUyQ0FuYWx5dGljcyUyME1vZGVsaW5nJTJDRGF0YSUyMFNjaWVuY2U=" data-listing-file-modified-sort="1747170471253" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
-<a href="./listings/04-funnel-attribution-model.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://placehold.co/600x400?text=Attribution+Model" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Marketing Funnel Attribution Model
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('QXR0cmlidXRpb24='); return false;">
-Attribution
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFya2V0aW5nJTIwRnVubmVs'); return false;">
-Marketing Funnel
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q2FtcGFpZ24lMjBPcHRpbWl6YXRpb24='); return false;">
-Campaign Optimization
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('QW5hbHl0aWNzJTIwTW9kZWxpbmc='); return false;">
-Analytics Modeling
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFNjaWVuY2U='); return false;">
-Data Science
-</div>
-</div>
-<div class="card-text listing-description">
-This project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="Q3VzdG9tZXIlMjBJbnNpZ2h0cyUyQ1NlZ21lbnRhdGlvbiUyQ01hY2hpbmUlMjBMZWFybmluZyUyQ0NsdXN0ZXJpbmclMkNNYXJrZXRpbmclMjBTdHJhdGVneQ==" data-listing-file-modified-sort="1747170471234" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
-<a href="./listings/03-customer-segmentation-clustering.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://placehold.co/600x400?text=Customer+Segmentation" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Customer Segmentation Using Clustering
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Q3VzdG9tZXIlMjBJbnNpZ2h0cw=='); return false;">
-Customer Insights
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U2VnbWVudGF0aW9u'); return false;">
-Segmentation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFjaGluZSUyMExlYXJuaW5n'); return false;">
-Machine Learning
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q2x1c3RlcmluZw=='); return false;">
-Clustering
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFya2V0aW5nJTIwU3RyYXRlZ3k='); return false;">
-Marketing Strategy
-</div>
-</div>
-<div class="card-text listing-description">
-In this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="U0VPJTJDQ29tcGV0aXRpdmUlMjBBbmFseXNpcyUyQ0tleXdvcmQlMjBSZXNlYXJjaCUyQ0RpZ2l0YWwlMjBTdHJhdGVneSUyQ1NlYXJjaCUyMFJhbmtpbmdz" data-listing-file-modified-sort="1747170471205" data-listing-reading-time-sort="1" data-listing-word-count-sort="97">
-<a href="./listings/02-seo-benchmarking-analysis.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://placehold.co/600x400?text=SEO+Analysis" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-SEO Benchmarking Analysis
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('U0VP'); return false;">
-SEO
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q29tcGV0aXRpdmUlMjBBbmFseXNpcw=='); return false;">
-Competitive Analysis
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('S2V5d29yZCUyMFJlc2VhcmNo'); return false;">
-Keyword Research
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGlnaXRhbCUyMFN0cmF0ZWd5'); return false;">
-Digital Strategy
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('U2VhcmNoJTIwUmFua2luZ3M='); return false;">
-Search Rankings
-</div>
-</div>
-<div class="card-text listing-description">
-This project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="RGFzaGJvYXJkaW5nJTJDTWFya2V0aW5nJTIwQW5hbHl0aWNzJTJDRGF0YSUyMFZpc3VhbGl6YXRpb24lMkNQZXJmb3JtYW5jZSUyME1ldHJpY3MlMkNDdXN0b21lciUyMEluc2lnaHRz" data-listing-file-modified-sort="1747170471175" data-listing-reading-time-sort="1" data-listing-word-count-sort="99">
-<a href="./listings/01-campaign-insights-dashboard.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="https://placehold.co/600x400?text=Campaign+Dashboard" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Campaign Insights Dashboard
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('RGFzaGJvYXJkaW5n'); return false;">
-Dashboarding
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('TWFya2V0aW5nJTIwQW5hbHl0aWNz'); return false;">
-Marketing Analytics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RGF0YSUyMFZpc3VhbGl6YXRpb24='); return false;">
-Data Visualization
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('UGVyZm9ybWFuY2UlMjBNZXRyaWNz'); return false;">
-Performance Metrics
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Q3VzdG9tZXIlMjBJbnNpZ2h0cw=='); return false;">
-Customer Insights
-</div>
-</div>
-<div class="card-text listing-description">
-This project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

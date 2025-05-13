@@ -1,22 +1,72 @@
 ---
-title: "Marketing Analytics"
-listing: 
-  contents: listings
-  type: grid
-  categories: true
-  sort: 
-    - "index desc"
+title: "Strategic Marketing"
 ---
 
-Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+Below are selected projects that highlight my experience in campaign development, digital strategy, and brand communication. These examples showcase how I apply a blend of creativity and data-driven decision making to solve real-world marketing challenges.
 
-Whether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies.
+## Meta Ads Campaign Optimization
 
-## What You’ll Find
+As part of a simulated client experience, I led the optimization of paid ad campaigns using Meta Ads Manager. I tested targeting strategies, budget allocations, and creative variations to maximize engagement and return on ad spend.
 
-- **Campaign Performance Analysis:** Evaluating the effectiveness of digital marketing efforts using data.
-- **Data Visualization:** Turning raw datasets into intuitive dashboards and reports.
-- **Marketing Mix & Attribution:** Exploring how different channels contribute to success.
-- **Customer & Market Insights:** Using analytics to better understand user behavior and optimize experiences.
+**Skills Demonstrated:**
+
+- **Audience Segmentation:** Refined targeting using personas and engagement history.
+- **A/B Testing:** Compared creative and placement variations for performance.
+- **Budget Strategy:** Allocated daily spend to high-performing campaigns.
+- **Performance Analysis:** Interpreted real-time results to improve ROI.
 
 ---
+
+## Buhi Social Media Simternship
+
+During a semester-long brand simulation, I managed social media strategy for Buhi Supply Co., aligning posts with product lines and seasonal promotions. I created original content for various platforms while tracking engagement and conversions.
+
+**Skills Demonstrated:**
+
+- **Content Creation:** Wrote platform-specific copy and designed creatives.
+- **Persona-Based Messaging:** Tailored posts to distinct audience profiles.
+- **Engagement Tracking:** Measured likes, shares, CTR, and conversions.
+- **Cross-Platform Planning:** Scheduled and adjusted posts based on trends.
+
+---
+
+## Messenger Campaign for Jill (Mimic Pro)
+
+This campaign focused on improving clickthrough rates for a Messenger-based ad strategy. I customized messaging for the "Jill" persona and adjusted the campaign setup to maximize results within budget constraints.
+
+**Skills Demonstrated:**
+
+- **Persona-Driven Marketing:** Designed content specifically for high-intent users.
+- **Conversion Optimization:** Used click and engagement data to refine copy.
+- **Performance Metrics:** Monitored CTR and cost-per-click over time.
+- **Channel Adaptation:** Adjusted campaign elements based on platform behavior.
+
+---
+
+## SEO & Brand Positioning Comparison Report
+
+I conducted a side-by-side analysis of two competitive brands' SEO strategies. This included keyword benchmarking, on-site optimization reviews, and SERP visibility. I used the findings to propose a clearer positioning strategy.
+
+**Skills Demonstrated:**
+
+- **Competitive Benchmarking:** Identified SEO strengths and gaps across competitors.
+- **Strategic Positioning:** Aligned keyword strategy with brand messaging.
+- **On-Page SEO Review:** Audited meta descriptions, headers, and content structure.
+- **Report Communication:** Summarized insights into a clear, actionable format.
+
+Below is an embedded demonstration of the interactive report:
+
+<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+
+---
+
+## Client Consultation & Strategy Presentation
+
+In a consulting simulation, I worked with a mock client to audit their current marketing strategy and present a refined campaign plan. This included persona refinement, budget optimization, and media planning.
+
+**Skills Demonstrated:**
+
+- **Marketing Audit:** Evaluated current digital and social campaigns.
+- **Strategic Recommendations:** Suggested improvements based on data and benchmarks.
+- **Presentation Design:** Communicated findings in a polished, persuasive format.
+- **Consulting Communication:** Delivered insights tailored to stakeholder goals.
