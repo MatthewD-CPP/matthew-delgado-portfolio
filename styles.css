@@ -1,20 +1,26 @@
 /* css styles */
 /* Custom SCSS theme for a professional Quarto website */
 
-$primary: #003366; // Deep navy blue
-$secondary: #e6f2ff; // Pale blue
-$body-bg: #ffffff;
-$body-color: #1a1a1a;
-$link-color: $primary;
+$font-family-sans-serif: "Open Sans", sans-serif;
+$body-bg: #f8f9fa;
+$body-color: #212529;
 
-$font-family-base: "Segoe UI", Roboto, Helvetica, sans-serif;
-$font-size-base: 1rem;
-$line-height-base: 1.6;
-$border-radius: 0.5rem;
+$link-color: #A50044; /* Deep red */
+$link-hover-color: darken(#A50044, 10%);
 
-.navbar {
-  background-color: $primary;
-  a {
-    color: white !important;
-  }
+$navbar-bg: #004D98; /* Dark blue */
+$navbar-fg: #ffffff;
+$navbar-hl: #FDB913; /* Gold */
+
+$footer-bg: #004D98;
+$footer-fg: #ffffff;
+
+/* Optional badge style */
+.badge-blaugrana {
+  background-color: #FDB913;
+  color: #212529;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.9em;
 }
