@@ -1,30 +1,30 @@
 /*-------------------------------------------------
   Custom SCSS Theme — Matthew Delgado Portfolio
+  Inspired by Official FC Barcelona Colors
 --------------------------------------------------*/
 
 /*-- scss:defaults --*/
 
-// ── Brand Palette ────────────────────────────────
-$color-primary:   #004D98;   // Barça Blue (headings, navbar)
-$color-secondary: #A50044;   // Barça Red (subheadings)
-
-$accent-1:  #FDB913;         // Barça Gold (links, badges)
-$accent-2:  #A6CE6E;         // Optional accent (success/status)
-$neutral-0: #FFFFFF;         // White
-$neutral-1: #F8F9FA;         // Light gray (background)
-$neutral-9: #121212;         // Near black (text)
+// ── Official Barça Colors ────────────────────────
+$color-primary:   #004D98;   // Barça Blue
+$color-secondary: #A50044;   // Garnet (deep red)
+$accent-1:        #FDB913;   // Gold highlight
+$accent-2:        #A6CE6E;   // Optional success/secondary
+$neutral-0:       #FFFFFF;   // White
+$neutral-1:       #F8F9FA;   // Light gray background
+$neutral-9:       #121212;   // Dark gray text
 
 // ── Typography ──────────────────────────────────
-$font-primary:    "Open Sans", sans-serif;
-$font-secondary:  Georgia, serif;
-$font-body:       $font-primary;
+$font-primary: "Montserrat", sans-serif;
+$font-secondary: "Play", sans-serif;
+$font-body: $font-primary;
 
 // ── Derived / utility variables ─────────────────
 $color-secondary-dark: darken($color-secondary, 10%);
 
 /*-- scss:rules --*/
 
-// ── Custom Badge Class ──────────────────────────
+// ── Badge Highlight ─────────────────────────────
 .badge-blaugrana {
   background-color: $accent-1;
   color: $neutral-9;
@@ -34,7 +34,7 @@ $color-secondary-dark: darken($color-secondary, 10%);
   font-size: 0.9em;
 }
 
-// ── Global Styles ───────────────────────────────
+// ── Layout Styling ──────────────────────────────
 body {
   font-family: $font-body;
   color: $neutral-9;
@@ -43,6 +43,7 @@ body {
   padding: 0;
 }
 
+// ── Headings ─────────────────────────────────────
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-primary;
   font-weight: bold;
@@ -53,13 +54,14 @@ h1 { color: $color-primary; }
 h2 { color: $color-secondary-dark; }
 h3 { color: $accent-1; }
 
+// ── Paragraphs ───────────────────────────────────
 p {
   font-size: 1em;
   line-height: 1.5;
   color: $neutral-9;
 }
 
-// ── Link Styling ────────────────────────────────
+// ── Links ────────────────────────────────────────
 a {
   color: $accent-1;
   text-decoration: none;
@@ -69,7 +71,33 @@ a {
   }
 }
 
-// ── Code Blocks ─────────────────────────────────
+// ── Navbar Styling ─────────────────
+.navbar {
+  background-color: $color-primary;
+}
+
+.navbar a {
+  color: $neutral-0 !important;
+
+  &:hover {
+    color: $accent-1 !important;
+  }
+}
+
+// ── Sidebar TOC Styling (optional) ───────────────
+.sidebar-title {
+  color: $color-secondary;
+}
+
+.sidebar nav a {
+  color: $color-secondary;
+
+  &:hover {
+    color: $accent-1;
+  }
+}
+
+// ── Code Blocks ──────────────────────────────────
 pre code {
   background: $neutral-9;
   color: $color-secondary;
@@ -80,7 +108,7 @@ pre code {
   overflow-x: auto;
 }
 
-// ── Highlight Utility ───────────────────────────
+// ── Highlight Utility ────────────────────────────
 .highlight {
   background-color: $accent-1;
   color: $neutral-0;
@@ -88,8 +116,8 @@ pre code {
   border-radius: 0.2em;
 }
 
-// ── Optional Animation ──────────────────────────
+// ── Optional Animation ───────────────────────────
 @keyframes progressColor {
-  0%   { background-color: $color-primary;   }
+  0%   { background-color: $color-primary; }
   100% { background-color: $color-secondary; }
 }
