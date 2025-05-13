@@ -1,23 +1,21 @@
 /*-------------------------------------------------
-  Generic SCSS Starter
-  Replace the sample values with your own brand
+  Custom SCSS Theme — Matthew Delgado Portfolio
 --------------------------------------------------*/
 
 /*-- scss:defaults --*/
 
 // ── Brand Palette ────────────────────────────────
-$color-primary:   #123456;  // ← Replace with brand primary
-$color-secondary: #ABCDEF;  // ← Replace with brand secondary
+$color-primary:   #004D98;   // Barça Blue (headings, navbar)
+$color-secondary: #A50044;   // Barça Red (subheadings)
 
-// Optional accent & neutral tones
-$accent-1:  #FF7F00;  // e.g., highlight / link
-$accent-2:  #A6CE6E;  // e.g., success
-$neutral-0: #FFFFFF;  // light / backgrounds
-$neutral-1: #F5F5F5;  // eggshell / subtle sections
-$neutral-9: #121212;  // near-black text
+$accent-1:  #FDB913;         // Barça Gold (links, badges)
+$accent-2:  #A6CE6E;         // Optional accent (success/status)
+$neutral-0: #FFFFFF;         // White
+$neutral-1: #F8F9FA;         // Light gray (background)
+$neutral-9: #121212;         // Near black (text)
 
 // ── Typography ──────────────────────────────────
-$font-primary:    Arial, sans-serif;
+$font-primary:    "Open Sans", sans-serif;
 $font-secondary:  Georgia, serif;
 $font-body:       $font-primary;
 
@@ -26,7 +24,17 @@ $color-secondary-dark: darken($color-secondary, 10%);
 
 /*-- scss:rules --*/
 
-/* Global body styles */
+// ── Custom Badge Class ──────────────────────────
+.badge-blaugrana {
+  background-color: $accent-1;
+  color: $neutral-9;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+
+// ── Global Styles ───────────────────────────────
 body {
   font-family: $font-body;
   color: $neutral-9;
@@ -35,25 +43,23 @@ body {
   padding: 0;
 }
 
-/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-primary;
   font-weight: bold;
   margin-top: 0;
 }
 
-h1 { color: $color-primary;   }
+h1 { color: $color-primary; }
 h2 { color: $color-secondary-dark; }
-h3 { color: $accent-1;        }
+h3 { color: $accent-1; }
 
-/* Paragraphs */
 p {
   font-size: 1em;
   line-height: 1.5;
   color: $neutral-9;
 }
 
-/* Links */
+// ── Link Styling ────────────────────────────────
 a {
   color: $accent-1;
   text-decoration: none;
@@ -63,7 +69,7 @@ a {
   }
 }
 
-/* Code blocks */
+// ── Code Blocks ─────────────────────────────────
 pre code {
   background: $neutral-9;
   color: $color-secondary;
@@ -74,7 +80,7 @@ pre code {
   overflow-x: auto;
 }
 
-/* Highlight utility */
+// ── Highlight Utility ───────────────────────────
 .highlight {
   background-color: $accent-1;
   color: $neutral-0;
@@ -82,7 +88,7 @@ pre code {
   border-radius: 0.2em;
 }
 
-/* Example animation (optional) */
+// ── Optional Animation ──────────────────────────
 @keyframes progressColor {
   0%   { background-color: $color-primary;   }
   100% { background-color: $color-secondary; }
