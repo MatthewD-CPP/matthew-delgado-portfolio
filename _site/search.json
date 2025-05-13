@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Hi, I’m Matthew Delgado",
     "section": "",
-    "text": "I’m a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights."
+    "text": "I’m a Marketing Management major passionate about digital strategy, analytics, and brand storytelling. I specialize in transforming data and ideas into clear, actionable insights that drive engagement and growth."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Hi, I’m Matthew Delgado",
     "section": "About Me",
-    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+    "text": "About Me\nI’m currently completing my B.S. in Marketing Management at Cal Poly Pomona, where I’ve developed skills in digital marketing, advertising analytics, and campaign strategy. I’m graduating this semester and actively seeking opportunities to apply my knowledge in real-world business settings.\nThroughout my coursework and hands-on projects, I’ve worked with tools like Google Analytics, Meta Ads Manager, R, and Excel to analyze customer data, optimize ad campaigns, and measure ROI across platforms."
   },
   {
     "objectID": "index.html#lets-connect",
     "href": "index.html#lets-connect",
     "title": "Hi, I’m Matthew Delgado",
     "section": "Let’s Connect",
-    "text": "Let’s Connect\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+    "text": "Let’s Connect\nFeel free to email me, or connect via the links below:\n\nLinkedIn\nGitHub\n\n\nWelcome to my portfolio — a showcase of my work in marketing analytics, digital strategy, and more."
   },
   {
     "objectID": "resume.html",
@@ -103,5 +103,12 @@
     "title": "Strategic Marketing",
     "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
     "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m Matthew Delgado",
+    "section": "What I Do",
+    "text": "What I Do\n\nMarketing Analytics & Insights\nTurning campaign data into clear, actionable insights using tools like Google Analytics, Meta Ads Manager, and Excel.\nDigital Strategy & Campaign Optimization\nDesigning and refining marketing strategies that drive engagement, conversions, and brand awareness across platforms.\nCreative Content & Ad Development\nCrafting audience-focused ad copy, visuals, and messaging that align with customer personas and business goals.\nData-Driven Reporting\nUsing Quarto and R to create professional, reproducible reports that communicate marketing performance and ROI clearly."
   }
 ]

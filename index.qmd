@@ -2,26 +2,42 @@
 title: "Hi, I'm Matthew Delgado"
 ---
 
-
 ::: {.columns}
 ::: {.column width="30%"}
 ![](images/headshot.jpg){width=100% style="border-radius: 50%;"}
 :::
 ::: {.column width="70%" style="padding-left: 3rem;"}
-I'm a [your profession or area of focus]. I specialize in transforming complex information into clear, engaging, and actionable insights.
+I'm a **Marketing Management major** passionate about digital strategy, analytics, and brand storytelling. I specialize in transforming data and ideas into clear, actionable insights that drive engagement and growth.
 :::
 :::
 
 ## About Me
 
-I hold a <span class="highlight">[Your Degree or Current Program]</span> from [Your Institution].
+I’m currently completing my `B.S. in Marketing Management` at **Cal Poly Pomona**, where I’ve developed skills in digital marketing, advertising analytics, and campaign strategy. I’m graduating this semester and actively seeking opportunities to apply my knowledge in real-world business settings.
 
+Throughout my coursework and hands-on projects, I've worked with tools like Google Analytics, Meta Ads Manager, R, and Excel to analyze customer data, optimize ad campaigns, and measure ROI across platforms.
 
+## What I Do
+
+- **Marketing Analytics & Insights**  
+  Turning campaign data into clear, actionable insights using tools like Google Analytics, Meta Ads Manager, and Excel.
+
+- **Digital Strategy & Campaign Optimization**  
+  Designing and refining marketing strategies that drive engagement, conversions, and brand awareness across platforms.
+
+- **Creative Content & Ad Development**  
+  Crafting audience-focused ad copy, visuals, and messaging that align with customer personas and business goals.
+
+- **Data-Driven Reporting**  
+  Using Quarto and R to create professional, reproducible reports that communicate marketing performance and ROI clearly.
 
 ## Let's Connect
 
-You can [email me](mailto:you@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/your-profile).
+Feel free to [email me](mailto:MattDelgado312@gmail.com), or connect via the links below:
+
+- [LinkedIn](https://www.linkedin.com/in/matthew-delgado-a6b80924a/)
+- [GitHub](https://github.com/MatthewD-CPP)
 
 ---
 
-*Welcome to my portfolio.*
+*Welcome to my portfolio — a showcase of my work in marketing analytics, digital strategy, and more.*
