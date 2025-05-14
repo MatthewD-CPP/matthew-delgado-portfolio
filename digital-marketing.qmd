@@ -1,72 +1,83 @@
 ---
-title: "Strategic Marketing"
+title: "Digital Marketing"
 ---
 
-Below are selected projects that highlight my experience in campaign development, digital strategy, and brand communication. These examples showcase how I apply a blend of creativity and data-driven decision making to solve real-world marketing challenges.
+This page features a curated selection of projects that demonstrate my skills in campaign strategy, audience engagement, and brand positioning. Each project showcases how I combine creativity with performance metrics to drive measurable marketing outcomes.
 
 ## Meta Ads Campaign Optimization
 
-As part of a simulated client experience, I led the optimization of paid ad campaigns using Meta Ads Manager. I tested targeting strategies, budget allocations, and creative variations to maximize engagement and return on ad spend.
+I led the optimization of paid advertising campaigns using Meta Ads Manager. By testing targeting strategies, adjusting budget allocations, and refining ad creative, I improved both engagement rates and return on ad spend.
 
-**Skills Demonstrated:**
+**Skills Demonstrated:**  
 
-- **Audience Segmentation:** Refined targeting using personas and engagement history.
-- **A/B Testing:** Compared creative and placement variations for performance.
-- **Budget Strategy:** Allocated daily spend to high-performing campaigns.
-- **Performance Analysis:** Interpreted real-time results to improve ROI.
-
----
-
-## Buhi Social Media Simternship
-
-During a semester-long brand simulation, I managed social media strategy for Buhi Supply Co., aligning posts with product lines and seasonal promotions. I created original content for various platforms while tracking engagement and conversions.
-
-**Skills Demonstrated:**
-
-- **Content Creation:** Wrote platform-specific copy and designed creatives.
-- **Persona-Based Messaging:** Tailored posts to distinct audience profiles.
-- **Engagement Tracking:** Measured likes, shares, CTR, and conversions.
-- **Cross-Platform Planning:** Scheduled and adjusted posts based on trends.
+- **Audience Segmentation:** Refined targeting based on persona insights and behavior.  
+- **A/B Testing:** Tested creative formats and placements to improve results.  
+- **Budget Strategy:** Reallocated spend toward top-performing campaigns.  
+- **Performance Analysis:** Interpreted campaign metrics to inform optimization.  
 
 ---
 
-## Messenger Campaign for Jill (Mimic Pro)
+## Social Media Strategy
 
-This campaign focused on improving clickthrough rates for a Messenger-based ad strategy. I customized messaging for the "Jill" persona and adjusted the campaign setup to maximize results within budget constraints.
+I developed and executed a social media content strategy for a product-focused brand, aligning posts with key product lines and seasonal themes. I created original content for multiple platforms, tailored messaging to customer personas, and monitored campaign performance to guide content adjustments.
 
-**Skills Demonstrated:**
+**Skills Demonstrated:**  
 
-- **Persona-Driven Marketing:** Designed content specifically for high-intent users.
-- **Conversion Optimization:** Used click and engagement data to refine copy.
-- **Performance Metrics:** Monitored CTR and cost-per-click over time.
-- **Channel Adaptation:** Adjusted campaign elements based on platform behavior.
-
----
-
-## SEO & Brand Positioning Comparison Report
-
-I conducted a side-by-side analysis of two competitive brands' SEO strategies. This included keyword benchmarking, on-site optimization reviews, and SERP visibility. I used the findings to propose a clearer positioning strategy.
-
-**Skills Demonstrated:**
-
-- **Competitive Benchmarking:** Identified SEO strengths and gaps across competitors.
-- **Strategic Positioning:** Aligned keyword strategy with brand messaging.
-- **On-Page SEO Review:** Audited meta descriptions, headers, and content structure.
-- **Report Communication:** Summarized insights into a clear, actionable format.
-
-Below is an embedded demonstration of the interactive report:
-
-<iframe src="data/TRI SEO Comparison.html" width="100%" height="600px" style="border: none;"></iframe>
+- **Content Creation:** Wrote platform-specific captions and designed creative assets.  
+- **Persona-Based Messaging:** Crafted posts aligned with targeted audience profiles.  
+- **Engagement Tracking:** Analyzed likes, CTR, and conversions across platforms.  
+- **Campaign Planning:** Scheduled and optimized posts based on engagement patterns.  
 
 ---
 
-## Client Consultation & Strategy Presentation
+## Product Promotion Campaign – Persona Activation Strategy
 
-In a consulting simulation, I worked with a mock client to audit their current marketing strategy and present a refined campaign plan. This included persona refinement, budget optimization, and media planning.
+I designed and launched a targeted Messenger ad campaign aimed at driving direct engagement with a high-intent customer persona. The campaign featured short-form copy tailored to mobile consumption and encouraged conversation-based conversion through Meta’s Messenger platform.
+
+**Skills Demonstrated:**  
+
+- **Persona Activation:** Segmented and targeted audiences based on behavioral intent and demographics.  
+- **Direct Response Strategy:** Structured campaign around urgency and engagement-focused CTAs.  
+- **Ad Copywriting:** Created concise, action-driven messages optimized for Messenger format.  
+- **Conversion Optimization:** Monitored CTR and CPC to iteratively improve campaign performance.  
+
+---
+
+## SEO & Brand Positioning Report
+
+I conducted a comparative SEO analysis of two competitive brands, reviewing keyword strategy, metadata, and content hierarchy. The findings informed a revised brand positioning strategy and website optimization recommendations.
+
+**Skills Demonstrated:**  
+
+- **SEO Benchmarking:** Evaluated keyword usage and on-page structure.  
+- **Strategic Positioning:** Recommended clearer, differentiated messaging.  
+- **Technical Audit:** Reviewed site architecture, tags, and meta content.  
+- **Report Communication:** Delivered insights in a clear, visual format.  
+
+## Campaign Performance Snapshot
+
+```{r}
+library(readxl)
+library(dplyr)
+library(knitr)
+
+# Load the sheet
+df <- read_excel("data/Gym Reapers Spreadsheet.xlsx")
+
+# Preview first 10 rows
+df %>%
+  head(10) %>%
+  kable()
+
+---
+
+## Client Consultation & Campaign Strategy
+
+I audited a client’s existing marketing strategy and presented a refreshed campaign plan. The project involved identifying performance gaps, refining audience targeting, and recommending an updated creative direction and media mix.
 
 **Skills Demonstrated:**
 
-- **Marketing Audit:** Evaluated current digital and social campaigns.
-- **Strategic Recommendations:** Suggested improvements based on data and benchmarks.
-- **Presentation Design:** Communicated findings in a polished, persuasive format.
-- **Consulting Communication:** Delivered insights tailored to stakeholder goals.
+- **Marketing Audit:** Assessed campaign strengths, inefficiencies, and missed opportunities.  
+- **Strategic Planning:** Developed a campaign plan aligned with brand goals and audience intent.  
+- **Client Presentation:** Delivered recommendations in a visual deck tailored to stakeholders.  
+- **Consulting Communication:** Synthesized data and insights into actionable guidance.  
