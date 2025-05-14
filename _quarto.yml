@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Matthew Delgado"
@@ -13,7 +14,6 @@ website:
         href: marketing-analytics.qmd
       - text: "Résumé"
         href: resume.qmd
-
 
 format:
   html:
