@@ -4,21 +4,21 @@
     "href": "resume.html",
     "title": "Résumé",
     "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
+    "text": "You can download or view my résumé as a PDF here."
   },
   {
     "objectID": "marketing-analytics.html",
     "href": "marketing-analytics.html",
     "title": "Marketing Analytics",
     "section": "",
-    "text": "Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems.\nWhether analyzing ad performance, building campaign reports, or evaluating audience behavior, my work focuses on making complex metrics meaningful and actionable. I aim to bridge the gap between data and decision-making to improve results and create smarter marketing strategies."
+    "text": "Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems across paid media, social campaigns, customer journeys, and digital strategy.\nWhether analyzing ad performance, building dashboards, optimizing personas, or evaluating audience behavior, my work focuses on turning complex metrics into clear, actionable strategies that inform smarter marketing decisions."
   },
   {
     "objectID": "marketing-analytics.html#what-youll-find",
     "href": "marketing-analytics.html#what-youll-find",
     "title": "Marketing Analytics",
     "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Measuring ad effectiveness across platforms like Meta and Messenger.\nData Visualization: Presenting key metrics and trends through clean, digestible dashboards.\nSEO & Traffic Insights: Using keyword data and site behavior to guide web strategy.\nAudience Behavior Analysis: Understanding how different customer segments engage, convert, and respond to content."
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Measuring ad effectiveness across platforms like Meta, Google, and Messenger.\nData Visualization & Dashboards: Presenting KPIs through clear reports using Excel, R, or Tableau.\nCustomer & Persona Insights: Segmenting audiences and tailoring strategy to real user behavior.\nChannel & Funnel Optimization: Identifying drop-off points and improving user journeys.\nTrend & Culture-Based Strategy: Evaluating how influencers, generations, and culture shape purchasing decisions.\nCertifications & Simulations: Realistic marketing simulations showcasing hands-on decision-making."
   },
   {
     "objectID": "listings/04-funnel-attribution-model.html",
@@ -173,5 +173,47 @@
     "title": "Digital Marketing & Strategy Certifications – Stukent Simternship",
     "section": "",
     "text": "Overview\nThis listing highlights two certifications earned through Stukent’s simulation-based marketing platforms. These programs provided hands-on experience in managing ad campaigns, making data-driven decisions, optimizing product strategies, and handling crisis communication — all within realistic business scenarios.\nBy combining marketing analytics, customer segmentation, and campaign execution, I built practical expertise in turning market insights into strategic action.\n\n\n\nKey Contributions\n\nDeveloped and adjusted positioning statements, value propositions, and product strategies\nManaged ad budgets and optimized digital campaigns based on CTR, ROAS, and engagement metrics\nCalculated CLV and CAC to select profitable target segments\nDesigned and priced products using customer feedback and competitive data\nCrafted strategic communications (e.g., email responses during crisis simulations)\n\n\n\n\nTools & Skills\n\nTools: Stukent Simternship Platform, Excel, Google Sheets\n\nSkills: Campaign management, performance optimization, segmentation, budget allocation, marketing mix strategy\n\n\n\n\nCertifications\n\n🏅 Marketing Management Simternship (Stukent)\n\n\n\n\n🏅 Digital Marketing Certification (Stukent)"
+  },
+  {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Résumé",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nMotivated and driven aspiring marketing professional with a strong academic foundation and experience in cross-functional team projects. Known for excellent communication skills, quick adaptability, and a strong work ethic. Passionate about turning ideas into strategy and data into action."
+  },
+  {
+    "objectID": "resume.html#technical-professional-skills",
+    "href": "resume.html#technical-professional-skills",
+    "title": "Résumé",
+    "section": "Technical & Professional Skills",
+    "text": "Technical & Professional Skills\n\nMarketing & Business: Market research, survey design, campaign planning, marketing analysis\nTools & Software: Microsoft Excel, PowerPoint, Word, Outlook, Access, Google Sheets\nSoft Skills: Collaborative, detail-oriented, critical thinker, excellent communicator\nOther: Native/Bilingual Spanish speaker, cordial and upbeat professional attitude"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Résumé",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nB.S. in Business Administration – Marketing Management\nExpected May 2025\nCollege of Business Administration\nCalifornia State Polytechnic University, Pomona"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Résumé",
+    "section": "Experience",
+    "text": "Experience\n\nDigital Marketing Intern\nLocal Agency / Small Business Client Project\nJan 2024 – Apr 2024\n- Assisted in creating and optimizing paid social media campaigns on Meta Ads Manager\n- Analyzed weekly performance reports (CTR, CPC, conversions) to recommend adjustments\n- Collaborated with creative and analytics teams to produce ad visuals and messaging\n- Created a mini dashboard in Excel to track and report on KPIs for client presentations\n\n\n\nMarketing Analytics Assistant\nBrightPath Marketing Solutions Sep 2023 – Dec 2023\n- Supported campaign tracking and customer segmentation projects for small business clients\n- Created dashboards using Excel and Google Sheets to visualize digital marketing KPIs\n- Cleaned and processed ad performance data for monthly reporting and insights\n- Contributed to audience personas and made targeting recommendations based on engagement patterns"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Résumé",
+    "section": "Certifications",
+    "text": "Certifications\n\nMicrosoft Access 2016 Essential Training – LinkedIn Learning (May 2024)\n\nStukent Digital Marketing Certification – (May 2025)\n\nMarketing Management Simternship – (May 2025)"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Résumé",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent)\n\nSpanish (Native/Bilingual)"
   }
 ]

@@ -2,54 +2,65 @@
 title: "Résumé"
 ---
 
-```{r knit-resume, echo=FALSE, message=FALSE}
-rmarkdown::render(
-  "resume/Resume.Rmd",
-  output_format = "pdf_document",
-  output_file   = "Resume.pdf",
-  output_dir    = "resume",
-  quiet         = TRUE
-)
-```
-
-You can view a PDF version of my résumé [here](resume/Resume.pdf).
-
-# Professional Summary
-
-Results-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.
-
-# Technical Skills
-
-- **Programming Languages:** R, Python, SQL, etc.  
-- **Web Technologies:** HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools
-
-# Education
-
-| Degree                             | Year                          | College / Department                 | Institution         |
-| ---------------------------------- | ----------------------------- | ------------------------------------ | ------------------- |
-| [Your Degree]                     | [Start – Graduation Year]     | [Your College or Department]        | [Your University]   |
-| [Previous Degree or Certification] | [Start – End Year]            | [Your College or Department]        | [Your University]   |
-
-# Work Experience
-
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
-
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Responsibility or accomplishment #3]  
-- [Technical tools, collaboration, or outcomes]  
-- [Any metrics, impacts, or stakeholder involvement]
+You can download or view my résumé as a PDF [here](resume/Matthew_Delgado_Resume.pdf).
 
 ---
 
-### [Job Title], [Company or Organization]  
-*[Start Date – End Date]*
+## Professional Summary
 
-- [Responsibility or accomplishment #1]  
-- [Responsibility or accomplishment #2]  
-- [Team leadership, training, or development]  
-- [Projects involving marketing, data, or web technologies]  
-- [Toolset used or strategies implemented]
+Motivated and driven aspiring marketing professional with a strong academic foundation and experience in cross-functional team projects. Known for excellent communication skills, quick adaptability, and a strong work ethic. Passionate about turning ideas into strategy and data into action.
 
 ---
+
+## Technical & Professional Skills
+
+- **Marketing & Business:** Market research, survey design, campaign planning, marketing analysis
+- **Tools & Software:** Microsoft Excel, PowerPoint, Word, Outlook, Access, Google Sheets
+- **Soft Skills:** Collaborative, detail-oriented, critical thinker, excellent communicator
+- **Other:** Native/Bilingual Spanish speaker, cordial and upbeat professional attitude
+
+---
+
+## Education
+
+| Degree                                                | Year             | College / Department                    | Institution                          |
+|--------------------------------------------------------|------------------|------------------------------------------|--------------------------------------|
+| B.S. in Business Administration – Marketing Management | Expected May 2025| College of Business Administration       | California State Polytechnic University, Pomona |
+
+---
+
+## Experience
+
+### Digital Marketing Intern  
+**Local Agency / Small Business Client Project**  
+*Jan 2024 – Apr 2024*  
+- Assisted in creating and optimizing paid social media campaigns on Meta Ads Manager  
+- Analyzed weekly performance reports (CTR, CPC, conversions) to recommend adjustments  
+- Collaborated with creative and analytics teams to produce ad visuals and messaging  
+- Created a mini dashboard in Excel to track and report on KPIs for client presentations
+
+---
+
+### Marketing Analytics Assistant  
+**BrightPath Marketing Solutions** 
+*Sep 2023 – Dec 2023*  
+- Supported campaign tracking and customer segmentation projects for small business clients  
+- Created dashboards using Excel and Google Sheets to visualize digital marketing KPIs  
+- Cleaned and processed ad performance data for monthly reporting and insights  
+- Contributed to audience personas and made targeting recommendations based on engagement patterns
+
+---
+
+## Certifications
+
+- **Microsoft Access 2016 Essential Training** – LinkedIn Learning *(May 2024)*  
+- **Stukent Digital Marketing Certification** – *(May 2025)*  
+- **Marketing Management Simternship** – *(May 2025)*
+
+---
+
+## Languages
+
+- English (Fluent)  
+- Spanish (Native/Bilingual)
+
