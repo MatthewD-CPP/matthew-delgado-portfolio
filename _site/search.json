@@ -1,45 +1,24 @@
 [
   {
-    "objectID": "strategic-marketing.html",
-    "href": "strategic-marketing.html",
-    "title": "Strategic Marketing",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
     "section": "",
-    "text": "Below are selected projects that highlight my experience in campaign development, digital strategy, and brand communication. These examples showcase how I apply a blend of creativity and data-driven decision making to solve real-world marketing challenges."
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
   },
   {
-    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 1: Strategic Campaign Planning]",
-    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 2: Brand Audit & Positioning]",
-    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
-    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
-    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
-  },
-  {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
-    "title": "Professional Summary",
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
     "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
   },
   {
     "objectID": "listings/04-funnel-attribution-model.html",
@@ -91,11 +70,39 @@
     "text": "This page features a curated selection of projects that demonstrate my skills in campaign strategy, audience engagement, and brand positioning. Each project showcases how I combine creativity with performance metrics to drive measurable marketing outcomes."
   },
   {
-    "objectID": "digital-marketing.html#what-youll-find",
-    "href": "digital-marketing.html#what-youll-find",
-    "title": "Marketing Analytics",
-    "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+    "objectID": "digital-marketing.html#meta-ads-campaign-optimization",
+    "href": "digital-marketing.html#meta-ads-campaign-optimization",
+    "title": "Digital Marketing",
+    "section": "Meta Ads Campaign Optimization",
+    "text": "Meta Ads Campaign Optimization\nI led the optimization of paid advertising campaigns using Meta Ads Manager. By testing targeting strategies, adjusting budget allocations, and refining ad creative, I improved both engagement rates and return on ad spend.\nSkills Demonstrated:\n\nAudience Segmentation: Refined targeting based on persona insights and behavior.\n\nA/B Testing: Tested creative formats and placements to improve results.\n\nBudget Strategy: Reallocated spend toward top-performing campaigns.\n\nPerformance Analysis: Interpreted campaign metrics to inform optimization."
+  },
+  {
+    "objectID": "digital-marketing.html#social-media-strategy",
+    "href": "digital-marketing.html#social-media-strategy",
+    "title": "Digital Marketing",
+    "section": "Social Media Strategy",
+    "text": "Social Media Strategy\nI developed and executed a social media content strategy for a product-focused brand, aligning posts with key product lines and seasonal themes. I created original content for multiple platforms, tailored messaging to customer personas, and monitored campaign performance to guide content adjustments.\nSkills Demonstrated:\n\nContent Creation: Wrote platform-specific captions and designed creative assets.\n\nPersona-Based Messaging: Crafted posts aligned with targeted audience profiles.\n\nEngagement Tracking: Analyzed likes, CTR, and conversions across platforms.\n\nCampaign Planning: Scheduled and optimized posts based on engagement patterns."
+  },
+  {
+    "objectID": "digital-marketing.html#product-promotion-campaign-persona-activation-strategy",
+    "href": "digital-marketing.html#product-promotion-campaign-persona-activation-strategy",
+    "title": "Digital Marketing",
+    "section": "Product Promotion Campaign – Persona Activation Strategy",
+    "text": "Product Promotion Campaign – Persona Activation Strategy\nI designed and launched a targeted Messenger ad campaign aimed at driving direct engagement with a high-intent customer persona. The campaign featured short-form copy tailored to mobile consumption and encouraged conversation-based conversion through Meta’s Messenger platform.\nSkills Demonstrated:\n\nPersona Activation: Segmented and targeted audiences based on behavioral intent and demographics.\n\nDirect Response Strategy: Structured campaign around urgency and engagement-focused CTAs.\n\nAd Copywriting: Created concise, action-driven messages optimized for Messenger format.\n\nConversion Optimization: Monitored CTR and CPC to iteratively improve campaign performance."
+  },
+  {
+    "objectID": "digital-marketing.html#seo-brand-positioning-report",
+    "href": "digital-marketing.html#seo-brand-positioning-report",
+    "title": "Digital Marketing",
+    "section": "SEO & Brand Positioning Report",
+    "text": "SEO & Brand Positioning Report\nI conducted a comparative SEO analysis of two competitive brands, reviewing keyword strategy, metadata, and content hierarchy. The findings informed a revised brand positioning strategy and website optimization recommendations.\nSkills Demonstrated:\n\nSEO Benchmarking: Evaluated keyword usage and on-page structure.\n\nStrategic Positioning: Recommended clearer, differentiated messaging.\n\nTechnical Audit: Reviewed site architecture, tags, and meta content.\n\nReport Communication: Delivered insights in a clear, visual format."
+  },
+  {
+    "objectID": "digital-marketing.html#client-consultation-campaign-strategy",
+    "href": "digital-marketing.html#client-consultation-campaign-strategy",
+    "title": "Digital Marketing",
+    "section": "Client Consultation & Campaign Strategy",
+    "text": "Client Consultation & Campaign Strategy\nI audited a client’s existing marketing strategy and presented a refreshed campaign plan. The project involved identifying performance gaps, refining audience targeting, and recommending an updated creative direction and media mix.\nSkills Demonstrated:\n\nMarketing Audit: Assessed campaign strengths, inefficiencies, and missed opportunities.\n\nStrategic Planning: Developed a campaign plan aligned with brand goals and audience intent.\n\nClient Presentation: Delivered recommendations in a visual deck tailored to stakeholders.\n\nConsulting Communication: Synthesized data and insights into actionable guidance."
   },
   {
     "objectID": "listings/01-campaign-insights-dashboard.html",
@@ -119,136 +126,10 @@
     "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
   },
   {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Résumé",
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
     "section": "",
-    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nResults-oriented marketing and analytics professional with a strong foundation in data analysis, digital strategy, and performance reporting. Skilled in leveraging analytics tools and programming languages to uncover insights and support decision-making across cross-functional teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, JavaScript, Quarto, CMS Platforms, Analytics Tools\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\n[Your Degree]\n[Start – Graduation Year]\n[Your College or Department]\n[Your University]\n\n\n[Previous Degree or Certification]\n[Start – End Year]\n[Your College or Department]\n[Your University]\n\n\n\n\n\nWork Experience\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Responsibility or accomplishment #3]\n\n[Technical tools, collaboration, or outcomes]\n\n[Any metrics, impacts, or stakeholder involvement]\n\n\n\n\n[Job Title], [Company or Organization]\n[Start Date – End Date]\n\n[Responsibility or accomplishment #1]\n\n[Responsibility or accomplishment #2]\n\n[Team leadership, training, or development]\n\n[Projects involving marketing, data, or web technologies]\n\n[Toolset used or strategies implemented]"
-  },
-  {
-    "objectID": "strategic-marketing.html#meta-ads-campaign-optimization",
-    "href": "strategic-marketing.html#meta-ads-campaign-optimization",
-    "title": "Strategic Marketing",
-    "section": "Meta Ads Campaign Optimization",
-    "text": "Meta Ads Campaign Optimization\nAs part of a simulated client experience, I led the optimization of paid ad campaigns using Meta Ads Manager. I tested targeting strategies, budget allocations, and creative variations to maximize engagement and return on ad spend.\nSkills Demonstrated:\n\nAudience Segmentation: Refined targeting using personas and engagement history.\nA/B Testing: Compared creative and placement variations for performance.\nBudget Strategy: Allocated daily spend to high-performing campaigns.\nPerformance Analysis: Interpreted real-time results to improve ROI."
-  },
-  {
-    "objectID": "strategic-marketing.html#buhi-social-media-simternship",
-    "href": "strategic-marketing.html#buhi-social-media-simternship",
-    "title": "Strategic Marketing",
-    "section": "Buhi Social Media Simternship",
-    "text": "Buhi Social Media Simternship\nDuring a semester-long brand simulation, I managed social media strategy for Buhi Supply Co., aligning posts with product lines and seasonal promotions. I created original content for various platforms while tracking engagement and conversions.\nSkills Demonstrated:\n\nContent Creation: Wrote platform-specific copy and designed creatives.\nPersona-Based Messaging: Tailored posts to distinct audience profiles.\nEngagement Tracking: Measured likes, shares, CTR, and conversions.\nCross-Platform Planning: Scheduled and adjusted posts based on trends."
-  },
-  {
-    "objectID": "strategic-marketing.html#messenger-campaign-for-jill-mimic-pro",
-    "href": "strategic-marketing.html#messenger-campaign-for-jill-mimic-pro",
-    "title": "Strategic Marketing",
-    "section": "Messenger Campaign for Jill (Mimic Pro)",
-    "text": "Messenger Campaign for Jill (Mimic Pro)\nThis campaign focused on improving clickthrough rates for a Messenger-based ad strategy. I customized messaging for the “Jill” persona and adjusted the campaign setup to maximize results within budget constraints.\nSkills Demonstrated:\n\nPersona-Driven Marketing: Designed content specifically for high-intent users.\nConversion Optimization: Used click and engagement data to refine copy.\nPerformance Metrics: Monitored CTR and cost-per-click over time.\nChannel Adaptation: Adjusted campaign elements based on platform behavior."
-  },
-  {
-    "objectID": "strategic-marketing.html#seo-brand-positioning-comparison-report",
-    "href": "strategic-marketing.html#seo-brand-positioning-comparison-report",
-    "title": "Strategic Marketing",
-    "section": "SEO & Brand Positioning Comparison Report",
-    "text": "SEO & Brand Positioning Comparison Report\nI conducted a side-by-side analysis of two competitive brands’ SEO strategies. This included keyword benchmarking, on-site optimization reviews, and SERP visibility. I used the findings to propose a clearer positioning strategy.\nSkills Demonstrated:\n\nCompetitive Benchmarking: Identified SEO strengths and gaps across competitors.\nStrategic Positioning: Aligned keyword strategy with brand messaging.\nOn-Page SEO Review: Audited meta descriptions, headers, and content structure.\nReport Communication: Summarized insights into a clear, actionable format.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "strategic-marketing.html#client-consultation-strategy-presentation",
-    "href": "strategic-marketing.html#client-consultation-strategy-presentation",
-    "title": "Strategic Marketing",
-    "section": "Client Consultation & Strategy Presentation",
-    "text": "Client Consultation & Strategy Presentation\nIn a consulting simulation, I worked with a mock client to audit their current marketing strategy and present a refined campaign plan. This included persona refinement, budget optimization, and media planning.\nSkills Demonstrated:\n\nMarketing Audit: Evaluated current digital and social campaigns.\nStrategic Recommendations: Suggested improvements based on data and benchmarks.\nPresentation Design: Communicated findings in a polished, persuasive format.\nConsulting Communication: Delivered insights tailored to stakeholder goals."
-  },
-  {
-    "objectID": "digital-marketing.html#meta-ads-campaign-optimization",
-    "href": "digital-marketing.html#meta-ads-campaign-optimization",
-    "title": "Digital Marketing",
-    "section": "Meta Ads Campaign Optimization",
-    "text": "Meta Ads Campaign Optimization\nI led the optimization of paid advertising campaigns using Meta Ads Manager. By testing targeting strategies, adjusting budget allocations, and refining ad creative, I improved both engagement rates and return on ad spend.\nSkills Demonstrated:\n\nAudience Segmentation: Refined targeting based on persona insights and behavior.\n\nA/B Testing: Tested creative formats and placements to improve results.\n\nBudget Strategy: Reallocated spend toward top-performing campaigns.\n\nPerformance Analysis: Interpreted campaign metrics to inform optimization."
-  },
-  {
-    "objectID": "digital-marketing.html#buhi-social-media-simternship",
-    "href": "digital-marketing.html#buhi-social-media-simternship",
-    "title": "Digital Marketing",
-    "section": "Buhi Social Media Simternship",
-    "text": "Buhi Social Media Simternship\nIn a semester-long simulation, I managed the social media strategy for Buhi Supply Co. I created and scheduled content for multiple platforms, tailored messaging to unique personas, and analyzed post engagement and conversions.\nSkills Demonstrated: - Content Creation: Wrote platform-specific captions and visual concepts. - Persona-Based Messaging: Designed posts aligned with customer profiles. - Engagement Tracking: Monitored likes, CTR, and conversions across platforms. - Campaign Planning: Managed timing and format mix across key channels."
-  },
-  {
-    "objectID": "digital-marketing.html#messenger-campaign-for-jill-mimic-pro",
-    "href": "digital-marketing.html#messenger-campaign-for-jill-mimic-pro",
-    "title": "Strategic Marketing",
-    "section": "Messenger Campaign for Jill (Mimic Pro)",
-    "text": "Messenger Campaign for Jill (Mimic Pro)\nThis campaign focused on improving clickthrough rates for a Messenger-based ad strategy. I customized messaging for the “Jill” persona and adjusted the campaign setup to maximize results within budget constraints.\nSkills Demonstrated:\n\nPersona-Driven Marketing: Designed content specifically for high-intent users.\nConversion Optimization: Used click and engagement data to refine copy.\nPerformance Metrics: Monitored CTR and cost-per-click over time.\nChannel Adaptation: Adjusted campaign elements based on platform behavior."
-  },
-  {
-    "objectID": "digital-marketing.html#seo-brand-positioning-comparison-report",
-    "href": "digital-marketing.html#seo-brand-positioning-comparison-report",
-    "title": "Strategic Marketing",
-    "section": "SEO & Brand Positioning Comparison Report",
-    "text": "SEO & Brand Positioning Comparison Report\nI conducted a side-by-side analysis of two competitive brands’ SEO strategies. This included keyword benchmarking, on-site optimization reviews, and SERP visibility. I used the findings to propose a clearer positioning strategy.\nSkills Demonstrated:\n\nCompetitive Benchmarking: Identified SEO strengths and gaps across competitors.\nStrategic Positioning: Aligned keyword strategy with brand messaging.\nOn-Page SEO Review: Audited meta descriptions, headers, and content structure.\nReport Communication: Summarized insights into a clear, actionable format.\n\nBelow is an embedded demonstration of the interactive report:"
-  },
-  {
-    "objectID": "digital-marketing.html#client-consultation-strategy-presentation",
-    "href": "digital-marketing.html#client-consultation-strategy-presentation",
-    "title": "Strategic Marketing",
-    "section": "Client Consultation & Strategy Presentation",
-    "text": "Client Consultation & Strategy Presentation\nIn a consulting simulation, I worked with a mock client to audit their current marketing strategy and present a refined campaign plan. This included persona refinement, budget optimization, and media planning.\nSkills Demonstrated:\n\nMarketing Audit: Evaluated current digital and social campaigns.\nStrategic Recommendations: Suggested improvements based on data and benchmarks.\nPresentation Design: Communicated findings in a polished, persuasive format.\nConsulting Communication: Delivered insights tailored to stakeholder goals."
-  },
-  {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
-  },
-  {
-    "objectID": "marketing-analytics.html#what-youll-find",
-    "href": "marketing-analytics.html#what-youll-find",
-    "title": "Marketing Analytics",
-    "section": "What You’ll Find",
-    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
-  },
-  {
-    "objectID": "digital-marketing.html#messenger-campaign-jill-persona-mimic-pro",
-    "href": "digital-marketing.html#messenger-campaign-jill-persona-mimic-pro",
-    "title": "Digital Marketing",
-    "section": "Messenger Campaign – Jill Persona (Mimic Pro)",
-    "text": "Messenger Campaign – Jill Persona (Mimic Pro)\nThis project focused on improving click-through rates in a Messenger ad campaign. I customized content for the “Jill” persona, adjusted channel settings, and tracked CTR performance across iterations.\nSkills Demonstrated: - Persona-Driven Content: Aligned messaging to high-intent user traits. - Copy Optimization: Refined text for clarity and actionability. - Performance Metrics: Monitored CTR and CPC over time. - Platform Adaptation: Tailored content to Messenger behavior patterns."
-  },
-  {
-    "objectID": "digital-marketing.html#seo-brand-positioning-report",
-    "href": "digital-marketing.html#seo-brand-positioning-report",
-    "title": "Digital Marketing",
-    "section": "SEO & Brand Positioning Report",
-    "text": "SEO & Brand Positioning Report\nI conducted a comparative SEO analysis of two competitive brands, reviewing keyword strategy, metadata, and content hierarchy. The findings informed a revised brand positioning strategy and website optimization recommendations.\nSkills Demonstrated:\n\nSEO Benchmarking: Evaluated keyword usage and on-page structure.\n\nStrategic Positioning: Recommended clearer, differentiated messaging.\n\nTechnical Audit: Reviewed site architecture, tags, and meta content.\n\nReport Communication: Delivered insights in a clear, visual format."
-  },
-  {
-    "objectID": "digital-marketing.html#client-consultation-campaign-strategy",
-    "href": "digital-marketing.html#client-consultation-campaign-strategy",
-    "title": "Digital Marketing",
-    "section": "Client Consultation & Campaign Strategy",
-    "text": "Client Consultation & Campaign Strategy\nI audited a client’s existing marketing strategy and presented a refreshed campaign plan. The project involved identifying performance gaps, refining audience targeting, and recommending an updated creative direction and media mix.\nSkills Demonstrated:\n\nMarketing Audit: Assessed campaign strengths, inefficiencies, and missed opportunities.\n\nStrategic Planning: Developed a campaign plan aligned with brand goals and audience intent.\n\nClient Presentation: Delivered recommendations in a visual deck tailored to stakeholders.\n\nConsulting Communication: Synthesized data and insights into actionable guidance."
-  },
-  {
-    "objectID": "digital-marketing.html#social-media-strategy",
-    "href": "digital-marketing.html#social-media-strategy",
-    "title": "Digital Marketing",
-    "section": "Social Media Strategy",
-    "text": "Social Media Strategy\nI developed and executed a social media content strategy for a product-focused brand, aligning posts with key product lines and seasonal themes. I created original content for multiple platforms, tailored messaging to customer personas, and monitored campaign performance to guide content adjustments.\nSkills Demonstrated:\n\nContent Creation: Wrote platform-specific captions and designed creative assets.\n\nPersona-Based Messaging: Crafted posts aligned with targeted audience profiles.\n\nEngagement Tracking: Analyzed likes, CTR, and conversions across platforms.\n\nCampaign Planning: Scheduled and optimized posts based on engagement patterns."
-  },
-  {
-    "objectID": "digital-marketing.html#product-promotion-campaign-persona-activation-strategy",
-    "href": "digital-marketing.html#product-promotion-campaign-persona-activation-strategy",
-    "title": "Digital Marketing",
-    "section": "Product Promotion Campaign – Persona Activation Strategy",
-    "text": "Product Promotion Campaign – Persona Activation Strategy\nI designed and launched a targeted Messenger ad campaign aimed at driving direct engagement with a high-intent customer persona. The campaign featured short-form copy tailored to mobile consumption and encouraged conversation-based conversion through Meta’s Messenger platform.\nSkills Demonstrated:\n\nPersona Activation: Segmented and targeted audiences based on behavioral intent and demographics.\n\nDirect Response Strategy: Structured campaign around urgency and engagement-focused CTAs.\n\nAd Copywriting: Created concise, action-driven messages optimized for Messenger format.\n\nConversion Optimization: Monitored CTR and CPC to iteratively improve campaign performance."
-  },
-  {
-    "objectID": "digital-marketing.html#campaign-performance-snapshot",
-    "href": "digital-marketing.html#campaign-performance-snapshot",
-    "title": "Digital Marketing",
-    "section": "Campaign Performance Snapshot",
-    "text": "Campaign Performance Snapshot\n\nlibrary(readxl)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\n# Load the sheet\ndf &lt;- read_excel(\"data/Gym Reapers Spreadsheet.xlsx\")\n\nNew names:\n• `` -&gt; `...2`\n• `` -&gt; `...3`\n• `` -&gt; `...4`\n• `` -&gt; `...5`\n• `` -&gt; `...6`\n• `` -&gt; `...7`\n• `` -&gt; `...8`\n• `` -&gt; `...9`\n\n# Preview first 10 rows\ndf %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstagram (Gym Reapers).\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n\n\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAccount & Branding\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nUser Name (handle)\nImage\nURL\nAccount Descriptor (Bio)\nURL in Bio (All links work? Anything missing)?\nWhat needs to be improved?\nNA\nNA\n\n\nNA\nGym Reapers\nNA\nhttps://www.instagram.com/gymreapers?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\nNothing is given.\n\n\n\n\n\n\n@gymreaperswomen\nNothing missing, all good.\nShould focus more on posts and videos with infograghics then normal reel. And use more hashtags\nNA\nNA\n\n\n\n\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAudience\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNumber of Followers\nDate the follower information was collected\n% Male\n% Female\nPrimary Age Group (%)\nSecondary Age Group (%)\nTop Locations\nOther characteristics\n\n\nNA\n366266.0\n45712.0\n0.6273\n0.3727\n0.3077\n0.1828\nUnited States\nFitness/ Motivation\n\n\nNA\nNA\nNA\nNA\nNA\n25-34\n35-44\nCanada & Australia\nNA\n\n\nPublishing\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA"
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
   }
 ]
