@@ -9,7 +9,7 @@ website:
         href: index.qmd
       - text: "Digital Marketing Projects"
         href: digital-marketing.qmd
-      - text: "Performance Insights"
+      - text: "Marketing Analytics"
         href: marketing-analytics.qmd
       - text: "Résumé"
         href: resume.qmd
