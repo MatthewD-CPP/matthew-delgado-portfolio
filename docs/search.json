@@ -1,40 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Matthew Delgado",
-    "section": "",
-    "text": "I’m a Marketing Management major passionate about digital strategy, analytics, and brand storytelling. I specialize in transforming data and ideas into clear, actionable insights that drive engagement and growth."
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Hi, I’m Matthew Delgado",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nFeel free to email me, or connect via the links below:\n\nLinkedIn\nGitHub\n\n\nWelcome to my portfolio — a showcase of my work in marketing analytics, digital strategy, and more."
-  },
-  {
-    "objectID": "marketing-analytics.html",
-    "href": "marketing-analytics.html",
-    "title": "Marketing Analytics",
-    "section": "",
-    "text": "Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems across paid media, social campaigns, customer journeys, and digital strategy.\nWhether analyzing ad performance, building dashboards, optimizing personas, or evaluating audience behavior, my work focuses on turning complex metrics into clear, actionable strategies that inform smarter marketing decisions."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Hi, I’m Matthew Delgado",
-    "section": "About Me",
-    "text": "About Me\nI hold a Bachelor of Science in Marketing Management from Cal Poly Pomona (expected graduation: May 2025), and bring a focused skill set in digital strategy, advertising analytics, and performance optimization. I’ve worked with tools like Google Analytics, Meta Ads Manager, R, and Excel to analyze campaign data, refine audience targeting, and measure ROI. My approach blends creativity with data to deliver marketing solutions that are both effective and measurable."
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "Hi, I’m Matthew Delgado",
-    "section": "What I Do",
-    "text": "What I Do\n\nMarketing Analytics & Insights\nTurning campaign data into clear, actionable insights using tools like Google Analytics, Meta Ads Manager, and Excel.\nDigital Strategy & Campaign Optimization\nDesigning and refining marketing strategies that drive engagement, conversions, and brand awareness across platforms.\nCreative Content & Ad Development\nCrafting audience-focused ad copy, visuals, and messaging that align with customer personas and business goals.\nData-Driven Reporting\nUsing Quarto and R to create professional, reproducible reports that communicate marketing performance and ROI clearly."
-  },
-  {
     "objectID": "resume.html",
     "href": "resume.html",
     "title": "Résumé",
@@ -84,6 +49,13 @@
     "text": "Languages\n\nEnglish (Fluent)\n\nSpanish (Native/Bilingual)"
   },
   {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems across paid media, social campaigns, customer journeys, and digital strategy.\nWhether analyzing ad performance, building dashboards, optimizing personas, or evaluating audience behavior, my work focuses on turning complex metrics into clear, actionable strategies that inform smarter marketing decisions."
+  },
+  {
     "objectID": "marketing-analytics.html#what-youll-find",
     "href": "marketing-analytics.html#what-youll-find",
     "title": "Marketing Analytics",
@@ -103,6 +75,34 @@
     "title": "Mobile App Marketing Performance – CPP Mobile",
     "section": "",
     "text": "Overview\nThis project focused on improving engagement and download rates for the CPP Mobile student services app. I worked on persona-driven feature development, A/B testing for app layout, and a series of targeted campaigns (email, text, website, and social media) to increase downloads and re-engagement.\nWe analyzed campaign KPIs across multiple channels and optimized both content and delivery methods. The strategy was built on real student demographic data and tailored to the behavioral patterns of Cal Poly Pomona’s student body.\n\n\n\nKey Contributions\n\nConducted persona research and UX audits to identify pain points (e.g., parking feature visibility)\nDesigned and tested multiple versions of app screens using A/B testing\nDeveloped and executed campaigns across 6+ channels: push notifications, email, web, social, QR codes, and text\nTracked open rates, CTRs, re-downloads, and impressions to evaluate campaign success\nCreated recommendations for new feature implementation and ongoing performance monitoring\n\n\n\n\nTools & Skills\n\nTools: Excel, Google Analytics, Firebase, Google Forms, Google Slides\n\nSkills: A/B testing, campaign strategy, multichannel analysis, UX optimization, persona development\n\n\n\n\nView the Full Project"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Matthew Delgado",
+    "section": "",
+    "text": "I’m a Marketing Management major passionate about digital strategy, analytics, and brand storytelling. I specialize in transforming data and ideas into clear, actionable insights that drive engagement and growth."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m Matthew Delgado",
+    "section": "About Me",
+    "text": "About Me\nI hold a Bachelor of Science in Marketing Management from Cal Poly Pomona (expected graduation: May 2025), and bring a focused skill set in digital strategy, advertising analytics, and performance optimization. I’ve worked with tools like Google Analytics, Meta Ads Manager, R, and Excel to analyze campaign data, refine audience targeting, and measure ROI. My approach blends creativity with data to deliver marketing solutions that are both effective and measurable."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m Matthew Delgado",
+    "section": "What I Do",
+    "text": "What I Do\n\nMarketing Analytics & Insights\nTurning campaign data into clear, actionable insights using tools like Google Analytics, Meta Ads Manager, and Excel.\nDigital Strategy & Campaign Optimization\nDesigning and refining marketing strategies that drive engagement, conversions, and brand awareness across platforms.\nCreative Content & Ad Development\nCrafting audience-focused ad copy, visuals, and messaging that align with customer personas and business goals.\nData-Driven Reporting\nUsing Quarto and R to create professional, reproducible reports that communicate marketing performance and ROI clearly."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Matthew Delgado",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nFeel free to email me, or connect via the links below:\n\nLinkedIn\nGitHub\n\n\nWelcome to my portfolio — a showcase of my work in marketing analytics, digital strategy, and more."
   },
   {
     "objectID": "digital-marketing.html",
