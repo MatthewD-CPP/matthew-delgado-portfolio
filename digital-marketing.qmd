@@ -68,6 +68,7 @@ df <- read_excel("data/Gym Reapers Spreadsheet.xlsx")
 df %>%
   head(10) %>%
   kable()
+```
 
 ---
 
