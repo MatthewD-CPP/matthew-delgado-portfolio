@@ -7,6 +7,48 @@
     "text": "You can download or view my résumé as a PDF here."
   },
   {
+    "objectID": "resume.html#professional-summary",
+    "href": "resume.html#professional-summary",
+    "title": "Résumé",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nMotivated and driven aspiring marketing professional with a strong academic foundation and experience in cross-functional team projects. Known for excellent communication skills, quick adaptability, and a strong work ethic. Passionate about turning ideas into strategy and data into action."
+  },
+  {
+    "objectID": "resume.html#technical-professional-skills",
+    "href": "resume.html#technical-professional-skills",
+    "title": "Résumé",
+    "section": "Technical & Professional Skills",
+    "text": "Technical & Professional Skills\n\nMarketing & Business: Market research, survey design, campaign planning, marketing analysis\nTools & Software: Microsoft Excel, PowerPoint, Word, Outlook, Access, Google Sheets\nSoft Skills: Collaborative, detail-oriented, critical thinker, excellent communicator\nOther: Native/Bilingual Spanish speaker, cordial and upbeat professional attitude"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Résumé",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nB.S. in Business Administration – Marketing Management\nExpected May 2025\nCollege of Business Administration\nCalifornia State Polytechnic University, Pomona"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Résumé",
+    "section": "Experience",
+    "text": "Experience\n\nDigital Marketing Intern\nLocal Agency / Small Business Client Project\nJan 2024 – Apr 2024\n- Assisted in creating and optimizing paid social media campaigns on Meta Ads Manager\n- Analyzed weekly performance reports (CTR, CPC, conversions) to recommend adjustments\n- Collaborated with creative and analytics teams to produce ad visuals and messaging\n- Created a mini dashboard in Excel to track and report on KPIs for client presentations\n\n\n\nMarketing Analytics Assistant\nBrightPath Marketing Solutions Sep 2023 – Dec 2023\n- Supported campaign tracking and customer segmentation projects for small business clients\n- Created dashboards using Excel and Google Sheets to visualize digital marketing KPIs\n- Cleaned and processed ad performance data for monthly reporting and insights\n- Contributed to audience personas and made targeting recommendations based on engagement patterns"
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Résumé",
+    "section": "Certifications",
+    "text": "Certifications\n\nMicrosoft Access 2016 Essential Training – LinkedIn Learning (May 2024)\n\nStukent Digital Marketing Certification – (May 2025)\n\nMarketing Management Simternship – (May 2025)"
+  },
+  {
+    "objectID": "resume.html#languages",
+    "href": "resume.html#languages",
+    "title": "Résumé",
+    "section": "Languages",
+    "text": "Languages\n\nEnglish (Fluent)\n\nSpanish (Native/Bilingual)"
+  },
+  {
     "objectID": "marketing-analytics.html",
     "href": "marketing-analytics.html",
     "title": "Marketing Analytics",
@@ -21,18 +63,18 @@
     "text": "What You’ll Find\n\nCampaign Performance Analysis: Measuring ad effectiveness across platforms like Meta, Google, and Messenger.\nData Visualization & Dashboards: Presenting KPIs through clear reports using Excel, R, or Tableau.\nCustomer & Persona Insights: Segmenting audiences and tailoring strategy to real user behavior.\nChannel & Funnel Optimization: Identifying drop-off points and improving user journeys.\nTrend & Culture-Based Strategy: Evaluating how influencers, generations, and culture shape purchasing decisions.\nCertifications & Simulations: Realistic marketing simulations showcasing hands-on decision-making."
   },
   {
-    "objectID": "listings/04-funnel-attribution-model.html",
-    "href": "listings/04-funnel-attribution-model.html",
-    "title": "Marketing Funnel Attribution Model",
+    "objectID": "listings/04-influencer-pop-culture-impact.html",
+    "href": "listings/04-influencer-pop-culture-impact.html",
+    "title": "The Impact of Influencers & Popular Culture on Consumer Behavior",
     "section": "",
-    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+    "text": "Overview\nThis project explored how influencer marketing and popular culture shape consumer decisions, brand perception, and economic behavior. Through research on real-world trends, platform growth, and industry examples, I analyzed both the positive impacts (sales, innovation, job creation) and the risks (materialism, scams, lack of regulation) associated with these digital forces.\nThe paper highlights how trends like FOMO, peer pressure, and celebrity influence can accelerate product adoption — for better or worse — and how marketers must balance trend participation with authenticity and responsibility.\n\n\n\nKey Contributions\n\nEvaluated the economic and psychological impact of influencers on modern consumer behavior\nExplored case studies of influencer-driven product adoption (e.g., Scrub Daddy, FaZe cryptocurrency scam)\nAnalyzed the role of social media in amplifying trends and driving short-term demand\nAssessed the challenges of regulating influencer content and ethics\nRecommended brand strategies that build trust while leveraging trend cycles\n\n\n\n\nTools & Skills\n\nTools: Secondary research, data visualization, cultural analysis\n\nSkills: Trend forecasting, influencer benchmarking, ethical marketing strategy, consumer insight\n\n\n\n\nView Full Report"
   },
   {
-    "objectID": "listings/02-seo-benchmarking-analysis.html",
-    "href": "listings/02-seo-benchmarking-analysis.html",
-    "title": "SEO Benchmarking Analysis",
+    "objectID": "listings/02-app-marketing-performance.html",
+    "href": "listings/02-app-marketing-performance.html",
+    "title": "Mobile App Marketing Performance – CPP Mobile",
     "section": "",
-    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+    "text": "Overview\nThis project focused on improving engagement and download rates for the CPP Mobile student services app. I worked on persona-driven feature development, A/B testing for app layout, and a series of targeted campaigns (email, text, website, and social media) to increase downloads and re-engagement.\nWe analyzed campaign KPIs across multiple channels and optimized both content and delivery methods. The strategy was built on real student demographic data and tailored to the behavioral patterns of Cal Poly Pomona’s student body.\n\n\n\nKey Contributions\n\nConducted persona research and UX audits to identify pain points (e.g., parking feature visibility)\nDesigned and tested multiple versions of app screens using A/B testing\nDeveloped and executed campaigns across 6+ channels: push notifications, email, web, social, QR codes, and text\nTracked open rates, CTRs, re-downloads, and impressions to evaluate campaign success\nCreated recommendations for new feature implementation and ongoing performance monitoring\n\n\n\n\nTools & Skills\n\nTools: Excel, Google Analytics, Firebase, Google Forms, Google Slides\n\nSkills: A/B testing, campaign strategy, multichannel analysis, UX optimization, persona development\n\n\n\n\nView the Full Project"
   },
   {
     "objectID": "index.html",
@@ -105,53 +147,11 @@
     "text": "Client Consultation & Campaign Strategy\nI audited a client’s existing marketing strategy and presented a refreshed campaign plan. The project involved identifying performance gaps, refining audience targeting, and recommending an updated creative direction and media mix.\nSkills Demonstrated:\n\nMarketing Audit: Assessed campaign strengths, inefficiencies, and missed opportunities.\n\nStrategic Planning: Developed a campaign plan aligned with brand goals and audience intent.\n\nClient Presentation: Delivered recommendations in a visual deck tailored to stakeholders.\n\nConsulting Communication: Synthesized data and insights into actionable guidance."
   },
   {
-    "objectID": "listings/01-campaign-insights-dashboard.html",
-    "href": "listings/01-campaign-insights-dashboard.html",
-    "title": "Sales Performance Analysis – Product & Channel Trends",
-    "section": "",
-    "text": "Overview\nThis project focused on analyzing unit and dollar sales for Nerds-branded candy across different retail channels using IRI scanner data. The analysis covered weekly performance, YOY changes, pricing strategies, and market share trends.\nBy comparing distribution (ACV), average pricing, and promotional pricing across SKUs and geographies, I identified growth opportunities and underperforming segments to inform merchandising and marketing strategy.\n\n\n\nKey Contributions\n\nAnalyzed 52-week and 4-week sales and unit trends across multiple Nerds SKUs\nAssessed price elasticity using base vs. promoted unit prices\nIdentified top-performing products by unit sales and market share\nMeasured brand performance vs. subcategory share using IRI benchmarks\nCreated a sortable dashboard of sales metrics in Excel\n\n\n\n\nTools & Skills\n\nTools: Excel, IRI data, pivot tables\n\nSkills: Sales trend analysis, pricing insights, promotional effectiveness, distribution tracking, market benchmarking\n\n\n\nView the Full Report"
-  },
-  {
-    "objectID": "listings/03-customer-segmentation-clustering.html",
-    "href": "listings/03-customer-segmentation-clustering.html",
-    "title": "Customer Segmentation Using Clustering",
-    "section": "",
-    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
-  },
-  {
-    "objectID": "listings/05-social-media-engagement.html",
-    "href": "listings/05-social-media-engagement.html",
-    "title": "Social Media Engagement Analysis",
-    "section": "",
-    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
-  },
-  {
-    "objectID": "resume/Resume.html",
-    "href": "resume/Resume.html",
-    "title": "Professional Summary",
-    "section": "",
-    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
-  },
-  {
-    "objectID": "digital-marketing.html#campaign-performance-snapshot",
-    "href": "digital-marketing.html#campaign-performance-snapshot",
-    "title": "Digital Marketing",
-    "section": "Campaign Performance Snapshot",
-    "text": "Campaign Performance Snapshot\n\nlibrary(readxl)\nlibrary(dplyr)\n\n\nAttaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union\n\nlibrary(knitr)\n\n# Load the sheet\ndf &lt;- read_excel(\"data/Gym Reapers Spreadsheet.xlsx\")\n\nNew names:\n• `` -&gt; `...2`\n• `` -&gt; `...3`\n• `` -&gt; `...4`\n• `` -&gt; `...5`\n• `` -&gt; `...6`\n• `` -&gt; `...7`\n• `` -&gt; `...8`\n• `` -&gt; `...9`\n\n# Preview first 10 rows\ndf %&gt;%\n  head(10) %&gt;%\n  kable()\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInstagram (Gym Reapers).\n…2\n…3\n…4\n…5\n…6\n…7\n…8\n…9\n\n\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAccount & Branding\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nUser Name (handle)\nImage\nURL\nAccount Descriptor (Bio)\nURL in Bio (All links work? Anything missing)?\nWhat needs to be improved?\nNA\nNA\n\n\nNA\nGym Reapers\nNA\nhttps://www.instagram.com/gymreapers?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==\nNothing is given.\n\n\n\n\n\n\n@gymreaperswomen\nNothing missing, all good.\nShould focus more on posts and videos with infograghics then normal reel. And use more hashtags\nNA\nNA\n\n\n\n\n\n\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nAudience\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA\n\n\nNA\nNumber of Followers\nDate the follower information was collected\n% Male\n% Female\nPrimary Age Group (%)\nSecondary Age Group (%)\nTop Locations\nOther characteristics\n\n\nNA\n366266.0\n45712.0\n0.6273\n0.3727\n0.3077\n0.1828\nUnited States\nFitness/ Motivation\n\n\nNA\nNA\nNA\nNA\nNA\n25-34\n35-44\nCanada & Australia\nNA\n\n\nPublishing\nNA\nNA\nNA\nNA\nNA\nNA\nNA\nNA"
-  },
-  {
     "objectID": "listings/01-sales-performance-analysis.html",
     "href": "listings/01-sales-performance-analysis.html",
     "title": "Sales Performance Analysis – Product & Channel Trends",
     "section": "",
     "text": "Overview\nThis project focused on analyzing unit and dollar sales for Nerds-branded candy across different retail channels using IRI scanner data. The analysis covered weekly performance, YOY changes, pricing strategies, and market share trends.\nBy comparing distribution (ACV), average pricing, and promotional pricing across SKUs and geographies, I identified growth opportunities and underperforming segments to inform merchandising and marketing strategy.\n\n\n\nKey Contributions\n\nAnalyzed 52-week and 4-week sales and unit trends across multiple Nerds SKUs\nAssessed price elasticity using base vs. promoted unit prices\nIdentified top-performing products by unit sales and market share\nMeasured brand performance vs. subcategory share using IRI benchmarks\nCreated a sortable dashboard of sales metrics in Excel\n\n\n\nTools: Excel, IRI data, pivot tables\n\nSkills: Sales trend analysis, pricing insights, promotional effectiveness, distribution tracking, market benchmarking\n\n\n\nView the Full Report"
-  },
-  {
-    "objectID": "listings/02-app-marketing-performance.html",
-    "href": "listings/02-app-marketing-performance.html",
-    "title": "Mobile App Marketing Performance – CPP Mobile",
-    "section": "",
-    "text": "Overview\nThis project focused on improving engagement and download rates for the CPP Mobile student services app. I worked on persona-driven feature development, A/B testing for app layout, and a series of targeted campaigns (email, text, website, and social media) to increase downloads and re-engagement.\nWe analyzed campaign KPIs across multiple channels and optimized both content and delivery methods. The strategy was built on real student demographic data and tailored to the behavioral patterns of Cal Poly Pomona’s student body.\n\n\n\nKey Contributions\n\nConducted persona research and UX audits to identify pain points (e.g., parking feature visibility)\nDesigned and tested multiple versions of app screens using A/B testing\nDeveloped and executed campaigns across 6+ channels: push notifications, email, web, social, QR codes, and text\nTracked open rates, CTRs, re-downloads, and impressions to evaluate campaign success\nCreated recommendations for new feature implementation and ongoing performance monitoring\n\n\n\n\nTools & Skills\n\nTools: Excel, Google Analytics, Firebase, Google Forms, Google Slides\n\nSkills: A/B testing, campaign strategy, multichannel analysis, UX optimization, persona development\n\n\n\n\nView the Full Project"
   },
   {
     "objectID": "listings/03-ev-millennial-marketing.html",
@@ -161,13 +161,6 @@
     "text": "Overview\nThis project analyzed how electric vehicle (EV) brands can align their marketing strategies with the values, behaviors, and preferences of the Millennial generation. Using a mix of secondary data, marketing theory, and psychological frameworks, I evaluated how companies like Tesla tailor their messaging around sustainability, innovation, and affordability to appeal to this influential consumer segment.\nThe report explores how marketers can apply theories such as the Theory of Planned Behavior, Diffusion of Innovations, and Maslow’s Hierarchy of Needs to better connect with Millennial consumers in a high-involvement category like EVs.\n\n\n\nKey Contributions\n\nAssessed Millennial psychographics, buying behavior, and digital engagement patterns\nIdentified value alignment between EV brands and Millennial priorities (eco-consciousness, personalization, tech-savviness)\nApplied marketing frameworks to explain generational motivations (e.g., autonomy, social status, environmental impact)\nRecommended content and platform strategies to improve campaign resonance and EV adoption\n\n\n\n\nTools & Skills\n\nTools: Market research synthesis, literature review, persona development\n\nSkills: Strategic positioning, generational marketing, psychological insight, EV industry research\n\n\n\n\nView Full Report"
   },
   {
-    "objectID": "listings/04-influencer-pop-culture-impact.html",
-    "href": "listings/04-influencer-pop-culture-impact.html",
-    "title": "The Impact of Influencers & Popular Culture on Consumer Behavior",
-    "section": "",
-    "text": "Overview\nThis project explored how influencer marketing and popular culture shape consumer decisions, brand perception, and economic behavior. Through research on real-world trends, platform growth, and industry examples, I analyzed both the positive impacts (sales, innovation, job creation) and the risks (materialism, scams, lack of regulation) associated with these digital forces.\nThe paper highlights how trends like FOMO, peer pressure, and celebrity influence can accelerate product adoption — for better or worse — and how marketers must balance trend participation with authenticity and responsibility.\n\n\n\nKey Contributions\n\nEvaluated the economic and psychological impact of influencers on modern consumer behavior\nExplored case studies of influencer-driven product adoption (e.g., Scrub Daddy, FaZe cryptocurrency scam)\nAnalyzed the role of social media in amplifying trends and driving short-term demand\nAssessed the challenges of regulating influencer content and ethics\nRecommended brand strategies that build trust while leveraging trend cycles\n\n\n\n\nTools & Skills\n\nTools: Secondary research, data visualization, cultural analysis\n\nSkills: Trend forecasting, influencer benchmarking, ethical marketing strategy, consumer insight\n\n\n\n\nView Full Report"
-  },
-  {
     "objectID": "listings/05-simulated-strategy-certifications.html",
     "href": "listings/05-simulated-strategy-certifications.html",
     "title": "Digital Marketing & Strategy Certifications – Stukent Simternship",
@@ -175,45 +168,10 @@
     "text": "Overview\nThis listing highlights two certifications earned through Stukent’s simulation-based marketing platforms. These programs provided hands-on experience in managing ad campaigns, making data-driven decisions, optimizing product strategies, and handling crisis communication — all within realistic business scenarios.\nBy combining marketing analytics, customer segmentation, and campaign execution, I built practical expertise in turning market insights into strategic action.\n\n\n\nKey Contributions\n\nDeveloped and adjusted positioning statements, value propositions, and product strategies\nManaged ad budgets and optimized digital campaigns based on CTR, ROAS, and engagement metrics\nCalculated CLV and CAC to select profitable target segments\nDesigned and priced products using customer feedback and competitive data\nCrafted strategic communications (e.g., email responses during crisis simulations)\n\n\n\n\nTools & Skills\n\nTools: Stukent Simternship Platform, Excel, Google Sheets\n\nSkills: Campaign management, performance optimization, segmentation, budget allocation, marketing mix strategy\n\n\n\n\nCertifications\n\n🏅 Marketing Management Simternship (Stukent)\n\n\n\n\n🏅 Digital Marketing Certification (Stukent)"
   },
   {
-    "objectID": "resume.html#professional-summary",
-    "href": "resume.html#professional-summary",
-    "title": "Résumé",
-    "section": "Professional Summary",
-    "text": "Professional Summary\nMotivated and driven aspiring marketing professional with a strong academic foundation and experience in cross-functional team projects. Known for excellent communication skills, quick adaptability, and a strong work ethic. Passionate about turning ideas into strategy and data into action."
-  },
-  {
-    "objectID": "resume.html#technical-professional-skills",
-    "href": "resume.html#technical-professional-skills",
-    "title": "Résumé",
-    "section": "Technical & Professional Skills",
-    "text": "Technical & Professional Skills\n\nMarketing & Business: Market research, survey design, campaign planning, marketing analysis\nTools & Software: Microsoft Excel, PowerPoint, Word, Outlook, Access, Google Sheets\nSoft Skills: Collaborative, detail-oriented, critical thinker, excellent communicator\nOther: Native/Bilingual Spanish speaker, cordial and upbeat professional attitude"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Résumé",
-    "section": "Education",
-    "text": "Education\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nB.S. in Business Administration – Marketing Management\nExpected May 2025\nCollege of Business Administration\nCalifornia State Polytechnic University, Pomona"
-  },
-  {
-    "objectID": "resume.html#experience",
-    "href": "resume.html#experience",
-    "title": "Résumé",
-    "section": "Experience",
-    "text": "Experience\n\nDigital Marketing Intern\nLocal Agency / Small Business Client Project\nJan 2024 – Apr 2024\n- Assisted in creating and optimizing paid social media campaigns on Meta Ads Manager\n- Analyzed weekly performance reports (CTR, CPC, conversions) to recommend adjustments\n- Collaborated with creative and analytics teams to produce ad visuals and messaging\n- Created a mini dashboard in Excel to track and report on KPIs for client presentations\n\n\n\nMarketing Analytics Assistant\nBrightPath Marketing Solutions Sep 2023 – Dec 2023\n- Supported campaign tracking and customer segmentation projects for small business clients\n- Created dashboards using Excel and Google Sheets to visualize digital marketing KPIs\n- Cleaned and processed ad performance data for monthly reporting and insights\n- Contributed to audience personas and made targeting recommendations based on engagement patterns"
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "Résumé",
-    "section": "Certifications",
-    "text": "Certifications\n\nMicrosoft Access 2016 Essential Training – LinkedIn Learning (May 2024)\n\nStukent Digital Marketing Certification – (May 2025)\n\nMarketing Management Simternship – (May 2025)"
-  },
-  {
-    "objectID": "resume.html#languages",
-    "href": "resume.html#languages",
-    "title": "Résumé",
-    "section": "Languages",
-    "text": "Languages\n\nEnglish (Fluent)\n\nSpanish (Native/Bilingual)"
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
   }
 ]
