@@ -1,0 +1,34 @@
+---
+title: "Target Market Strategy – Electric Vehicles & Millennial Values"
+categories: [Consumer Behavior, Market Segmentation, EV Marketing, Strategy, Generational Analysis]
+image: ../images/Elctric-Vehicle-copy.jpg
+index: 9
+---
+
+### Overview
+
+This project analyzed how electric vehicle (EV) brands can align their marketing strategies with the values, behaviors, and preferences of the Millennial generation. Using a mix of secondary data, marketing theory, and psychological frameworks, I evaluated how companies like Tesla tailor their messaging around sustainability, innovation, and affordability to appeal to this influential consumer segment.
+
+The report explores how marketers can apply theories such as the Theory of Planned Behavior, Diffusion of Innovations, and Maslow's Hierarchy of Needs to better connect with Millennial consumers in a high-involvement category like EVs.
+
+---
+
+### Key Contributions
+
+- Assessed Millennial psychographics, buying behavior, and digital engagement patterns
+- Identified value alignment between EV brands and Millennial priorities (eco-consciousness, personalization, tech-savviness)
+- Applied marketing frameworks to explain generational motivations (e.g., autonomy, social status, environmental impact)
+- Recommended content and platform strategies to improve campaign resonance and EV adoption
+
+---
+
+### Tools & Skills
+
+- **Tools:** Market research synthesis, literature review, persona development  
+- **Skills:** Strategic positioning, generational marketing, psychological insight, EV industry research
+
+---
+
+### View Full Report
+
+<iframe src="../docs/Navigating towards the Future_ Combining Electric Vehicles with Millennial Values.pdf" width="100%" height="600px" style="border: none;"></iframe>
