@@ -54,22 +54,6 @@ I conducted a comparative SEO analysis of two competitive brands, reviewing keyw
 - **Technical Audit:** Reviewed site architecture, tags, and meta content.  
 - **Report Communication:** Delivered insights in a clear, visual format.  
 
-## Campaign Performance Snapshot
-
-```{r}
-library(readxl)
-library(dplyr)
-library(knitr)
-
-# Load the sheet
-df <- read_excel("data/Gym Reapers Spreadsheet.xlsx")
-
-# Preview first 10 rows
-df %>%
-  head(10) %>%
-  kable()
-```
-
 ---
 
 ## Client Consultation & Campaign Strategy

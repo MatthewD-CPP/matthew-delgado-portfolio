@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -124,11 +158,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#product-promotion-campaign-persona-activation-strategy" id="toc-product-promotion-campaign-persona-activation-strategy" class="nav-link" data-scroll-target="#product-promotion-campaign-persona-activation-strategy">Product Promotion Campaign – Persona Activation Strategy</a></li>
   <li><a href="#seo-brand-positioning-report" id="toc-seo-brand-positioning-report" class="nav-link" data-scroll-target="#seo-brand-positioning-report">SEO &amp; Brand Positioning Report</a></li>
   <li><a href="#campaign-performance-snapshot" id="toc-campaign-performance-snapshot" class="nav-link" data-scroll-target="#campaign-performance-snapshot">Campaign Performance Snapshot</a></li>
-  <li><a href="#load-the-sheet" id="toc-load-the-sheet" class="nav-link" data-scroll-target="#load-the-sheet">Load the sheet</a></li>
-  <li><a href="#preview-first-10-rows" id="toc-preview-first-10-rows" class="nav-link" data-scroll-target="#preview-first-10-rows">Preview first 10 rows</a>
-  <ul class="collapse">
   <li><a href="#client-consultation-campaign-strategy" id="toc-client-consultation-campaign-strategy" class="nav-link" data-scroll-target="#client-consultation-campaign-strategy">Client Consultation &amp; Campaign Strategy</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -216,16 +246,196 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="campaign-performance-snapshot" class="level2">
 <h2 class="anchored" data-anchor-id="campaign-performance-snapshot">Campaign Performance Snapshot</h2>
-<p>library(readxl) library(dplyr) library(knitr)</p>
-</section>
-<section id="load-the-sheet" class="level1">
-<h1>Load the sheet</h1>
-<p>df &lt;- read_excel(“data/Gym Reapers Spreadsheet.xlsx”)</p>
-</section>
-<section id="preview-first-10-rows" class="level1">
-<h1>Preview first 10 rows</h1>
-<p>df %&gt;% head(10) %&gt;% kable()</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(readxl)</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(dplyr)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>
+Attaching package: 'dplyr'</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>The following objects are masked from 'package:stats':
+
+    filter, lag</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(knitr)</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Load the sheet</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">read_excel</span>(<span class="st">"data/Gym Reapers Spreadsheet.xlsx"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>New names:
+• `` -&gt; `...2`
+• `` -&gt; `...3`
+• `` -&gt; `...4`
+• `` -&gt; `...5`
+• `` -&gt; `...6`
+• `` -&gt; `...7`
+• `` -&gt; `...8`
+• `` -&gt; `...9`</code></pre>
+</div>
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Preview first 10 rows</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>df <span class="sc">%&gt;%</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>  <span class="fu">head</span>(<span class="dv">10</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>  <span class="fu">kable</span>()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<colgroup>
+<col style="width: 6%">
+<col style="width: 4%">
+<col style="width: 10%">
+<col style="width: 23%">
+<col style="width: 8%">
+<col style="width: 11%">
+<col style="width: 23%">
+<col style="width: 4%">
+<col style="width: 5%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Instagram (Gym Reapers).</th>
+<th style="text-align: left;">…2</th>
+<th style="text-align: left;">…3</th>
+<th style="text-align: left;">…4</th>
+<th style="text-align: left;">…5</th>
+<th style="text-align: left;">…6</th>
+<th style="text-align: left;">…7</th>
+<th style="text-align: left;">…8</th>
+<th style="text-align: left;">…9</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Account &amp; Branding</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">User Name (handle)</td>
+<td style="text-align: left;">Image</td>
+<td style="text-align: left;">URL</td>
+<td style="text-align: left;">Account Descriptor (Bio)</td>
+<td style="text-align: left;">URL in Bio (All links work? Anything missing)?</td>
+<td style="text-align: left;">What needs to be improved?</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Gym Reapers</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">https://www.instagram.com/gymreapers?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw==</td>
+<td style="text-align: left;">Nothing is given.</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><span class="citation" data-cites="gymreaperswomen">@gymreaperswomen</span></td>
+<td style="text-align: left;">Nothing missing, all good.</td>
+<td style="text-align: left;">Should focus more on posts and videos with infograghics then normal reel. And use more hashtags</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Audience</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">Number of Followers</td>
+<td style="text-align: left;">Date the follower information was collected</td>
+<td style="text-align: left;">% Male</td>
+<td style="text-align: left;">% Female</td>
+<td style="text-align: left;">Primary Age Group (%)</td>
+<td style="text-align: left;">Secondary Age Group (%)</td>
+<td style="text-align: left;">Top Locations</td>
+<td style="text-align: left;">Other characteristics</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">366266.0</td>
+<td style="text-align: left;">45712.0</td>
+<td style="text-align: left;">0.6273</td>
+<td style="text-align: left;">0.3727</td>
+<td style="text-align: left;">0.3077</td>
+<td style="text-align: left;">0.1828</td>
+<td style="text-align: left;">United States</td>
+<td style="text-align: left;">Fitness/ Motivation</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">25-34</td>
+<td style="text-align: left;">35-44</td>
+<td style="text-align: left;">Canada &amp; Australia</td>
+<td style="text-align: left;">NA</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Publishing</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+<td style="text-align: left;">NA</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
 <hr>
+</section>
 <section id="client-consultation-campaign-strategy" class="level2">
 <h2 class="anchored" data-anchor-id="client-consultation-campaign-strategy">Client Consultation &amp; Campaign Strategy</h2>
 <p>I audited a client’s existing marketing strategy and presented a refreshed campaign plan. The project involved identifying performance gaps, refining audience targeting, and recommending an updated creative direction and media mix.</p>
@@ -241,7 +451,6 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
