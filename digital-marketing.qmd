@@ -54,7 +54,7 @@ I conducted a comparative SEO analysis of two competitive brands, reviewing keyw
 - **Technical Audit:** Reviewed site architecture, tags, and meta content.  
 - **Report Communication:** Delivered insights in a clear, visual format.  
 
-<iframe src="docs/gym-reapers-report.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="files/gym-reapers-report.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
 
@@ -69,4 +69,4 @@ I audited a client’s existing marketing strategy and presented a refreshed cam
 - **Client Presentation:** Delivered recommendations in a visual deck tailored to stakeholders.  
 - **Consulting Communication:** Synthesized data and insights into actionable guidance.  
 
-<iframe src="docs/marketing-analysis.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="files/marketing-analysis.pdf" width="100%" height="600px" style="border: none;"></iframe>

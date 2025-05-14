@@ -29,6 +29,6 @@ By comparing distribution (ACV), average pricing, and promotional pricing across
 
 ### View the Full Report
 
-<iframe src="../docs/nerds-sales-analysis.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="../files/nerds-sales-analysis.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 

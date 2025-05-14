@@ -33,7 +33,7 @@ By combining marketing analytics, customer segmentation, and campaign execution,
 ### Certifications
 
 #### 🏅 Marketing Management Simternship (Stukent)
-<iframe src="../docs/Buhi-simternship.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="../files/Buhi-simternship.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 #### 🏅 Digital Marketing Certification (Stukent)
-<iframe src="../docs/Digital Marketing Certification certificate.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="../files/Digital Marketing Certification certificate.pdf" width="100%" height="600px" style="border: none;"></iframe>
