@@ -1,0 +1,39 @@
+---
+title: "Digital Marketing & Strategy Certifications – Stukent Simternship"
+categories: [Digital Marketing, Strategy, Simulation, Certification, Applied Marketing]
+image: ../images/stukent-certification-thumbnail.png
+index: 14
+---
+
+### Overview
+
+This listing highlights two certifications earned through Stukent's simulation-based marketing platforms. These programs provided hands-on experience in managing ad campaigns, making data-driven decisions, optimizing product strategies, and handling crisis communication — all within realistic business scenarios.
+
+By combining marketing analytics, customer segmentation, and campaign execution, I built practical expertise in turning market insights into strategic action.
+
+---
+
+### Key Contributions
+
+- Developed and adjusted positioning statements, value propositions, and product strategies
+- Managed ad budgets and optimized digital campaigns based on CTR, ROAS, and engagement metrics
+- Calculated CLV and CAC to select profitable target segments
+- Designed and priced products using customer feedback and competitive data
+- Crafted strategic communications (e.g., email responses during crisis simulations)
+
+---
+
+### Tools & Skills
+
+- **Tools:** Stukent Simternship Platform, Excel, Google Sheets  
+- **Skills:** Campaign management, performance optimization, segmentation, budget allocation, marketing mix strategy
+
+---
+
+### Certifications
+
+#### 🏅 Marketing Management Simternship (Stukent)
+<iframe src="../docs/Buhi-simternship.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
+#### 🏅 Digital Marketing Certification (Stukent)
+<iframe src="../docs/Digital Marketing Certification certificate.pdf" width="100%" height="600px" style="border: none;"></iframe>

@@ -8,17 +8,17 @@ listing:
     - "index desc"
 ---
 
-Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems.
+Below are selected projects that demonstrate how I apply marketing analytics to understand performance, uncover insights, and guide strategic decisions. These examples reflect my ability to blend analytical thinking with marketing intuition—using real data to solve real problems across paid media, social campaigns, customer journeys, and digital strategy.
 
-Whether analyzing ad performance, building campaign reports, or evaluating audience behavior, my work focuses on making complex metrics meaningful and actionable. I aim to bridge the gap between data and decision-making to improve results and create smarter marketing strategies.
+Whether analyzing ad performance, building dashboards, optimizing personas, or evaluating audience behavior, my work focuses on turning complex metrics into clear, actionable strategies that inform smarter marketing decisions.
 
 ## What You’ll Find
 
-- **Campaign Performance Analysis:** Measuring ad effectiveness across platforms like Meta and Messenger.
-- **Data Visualization:** Presenting key metrics and trends through clean, digestible dashboards.
-- **SEO & Traffic Insights:** Using keyword data and site behavior to guide web strategy.
-- **Audience Behavior Analysis:** Understanding how different customer segments engage, convert, and respond to content.
+- **Campaign Performance Analysis:** Measuring ad effectiveness across platforms like Meta, Google, and Messenger.
+- **Data Visualization & Dashboards:** Presenting KPIs through clear reports using Excel, R, or Tableau.
+- **Customer & Persona Insights:** Segmenting audiences and tailoring strategy to real user behavior.
+- **Channel & Funnel Optimization:** Identifying drop-off points and improving user journeys.
+- **Trend & Culture-Based Strategy:** Evaluating how influencers, generations, and culture shape purchasing decisions.
+- **Certifications & Simulations:** Realistic marketing simulations showcasing hands-on decision-making.
 
 ---
-
-

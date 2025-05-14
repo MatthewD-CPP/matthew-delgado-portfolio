@@ -1,0 +1,35 @@
+---
+title: "The Impact of Influencers & Popular Culture on Consumer Behavior"
+categories: [Influencer Marketing, Popular Culture, Consumer Psychology, Digital Trends, Strategy]
+image: ../images/influencer-culture-thumbnail.jpg
+index: 12
+---
+
+### Overview
+
+This project explored how influencer marketing and popular culture shape consumer decisions, brand perception, and economic behavior. Through research on real-world trends, platform growth, and industry examples, I analyzed both the positive impacts (sales, innovation, job creation) and the risks (materialism, scams, lack of regulation) associated with these digital forces.
+
+The paper highlights how trends like FOMO, peer pressure, and celebrity influence can accelerate product adoption — for better or worse — and how marketers must balance trend participation with authenticity and responsibility.
+
+---
+
+### Key Contributions
+
+- Evaluated the economic and psychological impact of influencers on modern consumer behavior
+- Explored case studies of influencer-driven product adoption (e.g., Scrub Daddy, FaZe cryptocurrency scam)
+- Analyzed the role of social media in amplifying trends and driving short-term demand
+- Assessed the challenges of regulating influencer content and ethics
+- Recommended brand strategies that build trust while leveraging trend cycles
+
+---
+
+### Tools & Skills
+
+- **Tools:** Secondary research, data visualization, cultural analysis  
+- **Skills:** Trend forecasting, influencer benchmarking, ethical marketing strategy, consumer insight
+
+---
+
+### View Full Report
+
+<iframe src="../docs/Influencers and the Popular Culture Effect On Our Economy.pdf" width="100%" height="600px" style="border: none;"></iframe>
