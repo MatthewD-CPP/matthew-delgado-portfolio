@@ -32,7 +32,7 @@ I hold a <span class="badge-blaugrana">Bachelor of Science in Marketing Manageme
 
 ## Let's Connect
 
-Feel free to [email me]([email me](mailto:matthewd1@cpp.edu?subject=Let's%20Connect&body=Hi%20Matthew,), or connect via the links below:
+Feel free to ([email me](mailto:matthewd1@cpp.edu?subject=Let's%20Connect&body=Hi%20Matthew,), or connect via the links below:
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-delgado-a6b80924a/)
 - [GitHub](https://github.com/MatthewD-CPP)
