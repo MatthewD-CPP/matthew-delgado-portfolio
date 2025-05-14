@@ -1,5 +1,5 @@
 ---
-title: "Digital Marketing"
+title: "Digital Marketing Projects"
 ---
 
 This page features a curated selection of projects that demonstrate my skills in campaign strategy, audience engagement, and brand positioning. Each project showcases how I combine creativity with performance metrics to drive measurable marketing outcomes.
@@ -54,6 +54,8 @@ I conducted a comparative SEO analysis of two competitive brands, reviewing keyw
 - **Technical Audit:** Reviewed site architecture, tags, and meta content.  
 - **Report Communication:** Delivered insights in a clear, visual format.  
 
+<iframe src="docs/gym-reapers-report.pdf" width="100%" height="600px" style="border: none;"></iframe>
+
 ---
 
 ## Client Consultation & Campaign Strategy
@@ -66,3 +68,5 @@ I audited a client’s existing marketing strategy and presented a refreshed cam
 - **Strategic Planning:** Developed a campaign plan aligned with brand goals and audience intent.  
 - **Client Presentation:** Delivered recommendations in a visual deck tailored to stakeholders.  
 - **Consulting Communication:** Synthesized data and insights into actionable guidance.  
+
+<iframe src="docs/marketing-analysis.pdf" width="100%" height="600px" style="border: none;"></iframe>

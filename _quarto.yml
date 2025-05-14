@@ -7,10 +7,10 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Marketing Analytics"
-        href: marketing-analytics.qmd
-      - text: "Digital Marketing"
+      - text: "Digital Marketing Projects"
         href: digital-marketing.qmd
+      - text: "Performance Insights"
+        href: marketing-analytics.qmd
       - text: "Résumé"
         href: resume.qmd
 
