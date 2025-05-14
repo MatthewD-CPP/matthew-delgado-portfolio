@@ -1,0 +1,35 @@
+---
+title: "Mobile App Marketing Performance – CPP Mobile"
+categories: [App Marketing, A/B Testing, Engagement Strategy, Multichannel Campaign, Analytics]
+image: ../images/cpp-mobile-app.png
+index: 4
+---
+
+### Overview
+
+This project focused on improving engagement and download rates for the CPP Mobile student services app. I worked on persona-driven feature development, A/B testing for app layout, and a series of targeted campaigns (email, text, website, and social media) to increase downloads and re-engagement.
+
+We analyzed campaign KPIs across multiple channels and optimized both content and delivery methods. The strategy was built on real student demographic data and tailored to the behavioral patterns of Cal Poly Pomona's student body.
+
+---
+
+### Key Contributions
+
+- Conducted persona research and UX audits to identify pain points (e.g., parking feature visibility)
+- Designed and tested multiple versions of app screens using A/B testing
+- Developed and executed campaigns across 6+ channels: push notifications, email, web, social, QR codes, and text
+- Tracked open rates, CTRs, re-downloads, and impressions to evaluate campaign success
+- Created recommendations for new feature implementation and ongoing performance monitoring
+
+---
+
+### Tools & Skills
+
+- **Tools:** Excel, Google Analytics, Firebase, Google Forms, Google Slides  
+- **Skills:** A/B testing, campaign strategy, multichannel analysis, UX optimization, persona development
+
+---
+
+### View the Full Project
+
+<iframe src="../docs/IBM 3292 Final Presentation Group C .pdf" width="100%" height="600px" style="border: none;"></iframe>

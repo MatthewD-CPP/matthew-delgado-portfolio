@@ -1,7 +1,7 @@
 ---
 title: "Sales Performance Analysis – Product & Channel Trends"
 categories: [Sales Analytics, Pricing Strategy, Excel]
-image: https://placehold.co/600x400?text=Sales+Analysis
+image: ../images/nerds-sales-analysis-thumbnail.jpg
 index: 2
 ---
 
